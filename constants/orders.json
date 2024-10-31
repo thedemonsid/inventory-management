@@ -1,5929 +1,5929 @@
 [
   {
     "code": "SM-0001",
-    "name": "MG-SPLENDOR BLACK (MG :- Mudgard)",
+    "name": "MG SPLENDOR BLACK MG Mudgard",
     "qty": 10,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0002",
-    "name": "MG-SPLENDOR RED (MG :- Mudgard)",
+    "name": "MG SPLENDOR RED MG Mudgard",
     "qty": 2,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0003",
-    "name": "MG-SPLENDOR METALLIC GREY (MG :- Mudgard)",
+    "name": "MG SPLENDOR METALLIC GREY MG Mudgard",
     "qty": 2,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0004",
-    "name": "MG-SPLENDOR SILVER (MG :- Mudgard)",
+    "name": "MG SPLENDOR SILVER MG Mudgard",
     "qty": 2,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0005",
-    "name": "MG-SPLENDOR M.BLUE (MG :- Mudgard)",
+    "name": "MG SPLENDOR M BLUE MG Mudgard",
     "qty": 2,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0006",
-    "name": "MG-SPLENDOR T.BLUE (MG :- Mudgard)",
+    "name": "MG SPLENDOR T BLUE MG Mudgard",
     "qty": 2,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0007",
-    "name": "MG-SPLENDOR GREEN (MG :- Mudgard)",
+    "name": "MG SPLENDOR GREEN MG Mudgard",
     "qty": 2,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0008",
-    "name": "MG-CD DLX O/M WINE RED (MG :- Mudgard)",
+    "name": "MG CD DLX O M WINE RED MG Mudgard",
     "qty": 2,
     "mrp": 435,
     "part": "MG"
   },
   {
     "code": "SM-0009",
-    "name": "MG-SUPER SPLENDOR BLACK (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR BLACK MG Mudgard",
     "qty": 5,
     "mrp": 525,
     "part": "MG"
   },
   {
     "code": "SM-0010",
-    "name": "MG-SUPER SPLENDOR RED (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR RED MG Mudgard",
     "qty": 2,
     "mrp": 525,
     "part": "MG"
   },
   {
     "code": "SM-0011",
-    "name": "MG-SUPER SPLENDOR WINE RED (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR WINE RED MG Mudgard",
     "qty": 2,
     "mrp": 525,
     "part": "MG"
   },
   {
     "code": "SM-0012",
-    "name": "MG-SUPER SPLENDOR SILVER (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR SILVER MG Mudgard",
     "qty": 2,
     "mrp": 525,
     "part": "MG"
   },
   {
     "code": "SM-0013",
-    "name": "MG-SUPER SPLENDOR T.BLUE (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR T BLUE MG Mudgard",
     "qty": 2,
     "mrp": 525,
     "part": "MG"
   },
   {
     "code": "SM-0014",
-    "name": "MG-SUPER SPLENDOR SKY BLUE (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR SKY BLUE MG Mudgard",
     "qty": 2,
     "mrp": 525,
     "part": "MG"
   },
   {
     "code": "SM-0015",
-    "name": "MG-SUPER SPLENDOR LATEST BLACK (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR LATEST BLACK MG Mudgard",
     "qty": 2,
     "mrp": 545,
     "part": "MG"
   },
   {
     "code": "SM-0016",
-    "name": "MG-SUPER SPLENDOR LATEST RED (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR LATEST RED MG Mudgard",
     "qty": 2,
     "mrp": 545,
     "part": "MG"
   },
   {
     "code": "SM-0017",
-    "name": "MG-SUPER SPLENDOR LATEST SILVER (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR LATEST SILVER MG Mudgard",
     "qty": 2,
     "mrp": 545,
     "part": "MG"
   },
   {
     "code": "SM-0018",
-    "name": "MG-SUPER SPLENDOR LATEST BLUE (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR LATEST BLUE MG Mudgard",
     "qty": 2,
     "mrp": 545,
     "part": "MG"
   },
   {
     "code": "SM-0019",
-    "name": "MG-SUPER SPLENDOR LATEST GREY (MG :- Mudgard)",
+    "name": "MG SUPER SPLENDOR LATEST GREY MG Mudgard",
     "qty": 2,
     "mrp": 545,
     "part": "MG"
   },
   {
     "code": "SM-0020",
-    "name": "MG-SPLENDOR I-SMART S.RED (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART S RED MG Mudgard",
     "qty": 2,
     "mrp": 610,
     "part": "MG"
   },
   {
     "code": "SM-0021",
-    "name": "MG-SPLENDOR I-SMART BLUE (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART BLUE MG Mudgard",
     "qty": 2,
     "mrp": 610,
     "part": "MG"
   },
   {
     "code": "SM-0022",
-    "name": "MG-SPLENDOR I-SMART GREY (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART GREY MG Mudgard",
     "qty": 2,
     "mrp": 610,
     "part": "MG"
   },
   {
     "code": "SM-0023",
-    "name": "MG-SPLENDOR I-SMART GREEN (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART GREEN MG Mudgard",
     "qty": 2,
     "mrp": 610,
     "part": "MG"
   },
   {
     "code": "SM-0023-A",
-    "name": "MG-SPLENDOR I-SMART SILVER (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART SILVER MG Mudgard",
     "qty": 2,
     "mrp": 610,
     "part": "MG"
   },
   {
     "code": "SM-0023-E",
-    "name": "MG-SPLENDOR I-SMART BLACK (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART BLACK MG Mudgard",
     "qty": 2,
     "mrp": 610,
     "part": "MG"
   },
   {
     "code": "SM-0023-B",
-    "name": "MG-SPLENDOR I-SMART 110CC S.RED (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART 110CC S RED MG Mudgard",
     "qty": 2,
     "mrp": 640,
     "part": "MG"
   },
   {
     "code": "SM-0023-F",
-    "name": "MG-SPLENDOR I-SMART 110CC BLACK (MG :- Mudgard)",
+    "name": "MG SPLENDOR I SMART 110CC BLACK MG Mudgard",
     "qty": 2,
     "mrp": 640,
     "part": "MG"
   },
   {
     "code": "SM-0024",
-    "name": "MG-PASSION PLUS BLACK (MG :- Mudgard)",
+    "name": "MG PASSION PLUS BLACK MG Mudgard",
     "qty": 5,
     "mrp": 450,
     "part": "MG"
   },
   {
     "code": "SM-0025",
-    "name": "MG-PASSION PLUS RED (MG :- Mudgard)",
+    "name": "MG PASSION PLUS RED MG Mudgard",
     "qty": 2,
     "mrp": 450,
     "part": "MG"
   },
   {
     "code": "SM-0037-A",
-    "name": "MG-PASSION PRO HERO(2016) BLACK (MG :- Mudgard)",
+    "name": "MG PASSION PRO HERO 2016 BLACK MG Mudgard",
     "qty": 5,
     "mrp": 535,
     "part": "MG"
   },
   {
     "code": "SM-0037-B",
-    "name": "MG-PASSION PRO HERO(2016) S.RED (MG :- Mudgard)",
+    "name": "MG PASSION PRO HERO 2016 S RED MG Mudgard",
     "qty": 5,
     "mrp": 535,
     "part": "MG"
   },
   {
     "code": "SM-0037-C",
-    "name": "MG-PASSION PRO HERO(2016) SILVER (MG :- Mudgard)",
+    "name": "MG PASSION PRO HERO 2016 SILVER MG Mudgard",
     "qty": 5,
     "mrp": 535,
     "part": "MG"
   },
   {
     "code": "SM-0037-C-1",
-    "name": "MG-PASSION PRO HERO(2016) WHITE (MG :- Mudgard)",
+    "name": "MG PASSION PRO HERO 2016 WHITE MG Mudgard",
     "qty": 5,
     "mrp": 535,
     "part": "MG"
   },
   {
     "code": "SM-0038-A",
-    "name": "MG-PASSION PRO BS-6 BLACK (MG :- Mudgard)",
+    "name": "MG PASSION PRO BS 6 BLACK MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0038-B",
-    "name": "MG-PASSION PRO BS-6 GREY (MG :- Mudgard)",
+    "name": "MG PASSION PRO BS 6 GREY MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0038-C",
-    "name": "MG-PASSION PRO BS-6 YELLOW (MG :- Mudgard)",
+    "name": "MG PASSION PRO BS 6 YELLOW MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0038-D",
-    "name": "MG-PASSION PRO BS-6 S.RED (MG :- Mudgard)",
+    "name": "MG PASSION PRO BS 6 S RED MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0038-E",
-    "name": "MG-PASSION PRO BS-6 BLUE (MG :- Mudgard)",
+    "name": "MG PASSION PRO BS 6 BLUE MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0038",
-    "name": "MG-PASSION X PRO BLACK (MG :- Mudgard)",
+    "name": "MG PASSION X PRO BLACK MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0039",
-    "name": "MG-PASSION X PRO S.RED (MG :- Mudgard)",
+    "name": "MG PASSION X PRO S RED MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0040",
-    "name": "MG-PASSION X PRO PARROT GREEN (MG :- Mudgard)",
+    "name": "MG PASSION X PRO PARROT GREEN MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0041",
-    "name": "MG-PASSION X PRO SILVER (MG :- Mudgard)",
+    "name": "MG PASSION X PRO SILVER MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0042",
-    "name": "MG-PASSION X PRO BLUE (MG :- Mudgard)",
+    "name": "MG PASSION X PRO BLUE MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0042-A",
-    "name": "MG-PASSION X PRO GOLDEN (MG :- Mudgard)",
+    "name": "MG PASSION X PRO GOLDEN MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0043",
-    "name": "MG-GLAMOUR BLACK (MG :- Mudgard)",
+    "name": "MG GLAMOUR BLACK MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0043-A",
-    "name": "MG-GLAMOUR YELLOW (MG :- Mudgard)",
+    "name": "MG GLAMOUR YELLOW MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0044",
-    "name": "MG-GLAMOUR RED (MG :- Mudgard)",
+    "name": "MG GLAMOUR RED MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0045",
-    "name": "MG-GLAMOUR S.RED (MG :- Mudgard)",
+    "name": "MG GLAMOUR S RED MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0046",
-    "name": "MG-GLAMOUR SILVER (MG :- Mudgard)",
+    "name": "MG GLAMOUR SILVER MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0048",
-    "name": "MG-GLAMOUR LATEST BLACK (MG :- Mudgard)",
+    "name": "MG GLAMOUR LATEST BLACK MG Mudgard",
     "qty": 1,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-0049",
-    "name": "MG-GLAMOUR LATEST RED (MG :- Mudgard)",
+    "name": "MG GLAMOUR LATEST RED MG Mudgard",
     "qty": 1,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-0049-A",
-    "name": "MG-GLAMOUR LATEST S.RED (MG :- Mudgard)",
+    "name": "MG GLAMOUR LATEST S RED MG Mudgard",
     "qty": 1,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-0049-B",
-    "name": "MG-GLAMOUR LATEST BLUE (MG :- Mudgard)",
+    "name": "MG GLAMOUR LATEST BLUE MG Mudgard",
     "qty": 1,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-0050",
-    "name": "MG-CBZ/CBZ STAR/AMBITION BLACK (MG :- Mudgard)",
+    "name": "MG CBZ CBZ STAR AMBITION BLACK MG Mudgard",
     "qty": 2,
     "mrp": 540,
     "part": "MG"
   },
   {
     "code": "SM-0051",
-    "name": "MG-CBZ/CBZ STAR/AMBITION RED (MG :- Mudgard)",
+    "name": "MG CBZ CBZ STAR AMBITION RED MG Mudgard",
     "qty": 1,
     "mrp": 540,
     "part": "MG"
   },
   {
     "code": "SM-0052",
-    "name": "MG-CBZ/CBZ STAR/AMBITION SILVER (MG :- Mudgard)",
+    "name": "MG CBZ CBZ STAR AMBITION SILVER MG Mudgard",
     "qty": 1,
     "mrp": 540,
     "part": "MG"
   },
   {
     "code": "SM-0053",
-    "name": "MG-CBZ/CBZ STAR/AMBITION T.BLUE (MG :- Mudgard)",
+    "name": "MG CBZ CBZ STAR AMBITION T BLUE MG Mudgard",
     "qty": 1,
     "mrp": 540,
     "part": "MG"
   },
   {
     "code": "SM-0057",
-    "name": "MG-AMBITION MAROON (MG :- Mudgard)",
+    "name": "MG AMBITION MAROON MG Mudgard",
     "qty": 1,
     "mrp": 540,
     "part": "MG"
   },
   {
     "code": "SM-0061",
-    "name": "MG-AMBITION YELLOW (MG :- Mudgard)",
+    "name": "MG AMBITION YELLOW MG Mudgard",
     "qty": 1,
     "mrp": 540,
     "part": "MG"
   },
   {
     "code": "SM-0061-A",
-    "name": "MG-AMBITION GREEN (MG :- Mudgard)",
+    "name": "MG AMBITION GREEN MG Mudgard",
     "qty": 1,
     "mrp": 540,
     "part": "MG"
   },
   {
     "code": "SM-0062",
-    "name": "MG-CBZ XTREME ( T-1 & T-2) BLACK (MG :- Mudgard)",
+    "name": "MG CBZ XTREME T 1 T 2 BLACK MG Mudgard",
     "qty": 2,
     "mrp": 535,
     "part": "MG"
   },
   {
     "code": "SM-0066",
-    "name": "MG-CBZ XTREME T-3 BLACK (MG :- Mudgard)",
+    "name": "MG CBZ XTREME T 3 BLACK MG Mudgard",
     "qty": 2,
     "mrp": 620,
     "part": "MG"
   },
   {
     "code": "SM-0068-A",
-    "name": "MG-ACHIEVER BLACK (MG :- Mudgard)",
+    "name": "MG ACHIEVER BLACK MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0077",
-    "name": "MG-CD DLX/SPLENDOR PRO/NXG BLACK (MG :- Mudgard)",
+    "name": "MG CD DLX SPLENDOR PRO NXG BLACK MG Mudgard",
     "qty": 10,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0078",
-    "name": "MG-CD DLX/SPLENDOR PRO/NXG RED (MG :- Mudgard)",
+    "name": "MG CD DLX SPLENDOR PRO NXG RED MG Mudgard",
     "qty": 3,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0079",
-    "name": "MG-CD DLX/SPLENDOR PRO/NXG WINE RED (MG :- Mudgard)",
+    "name": "MG CD DLX SPLENDOR PRO NXG WINE RED MG Mudgard",
     "qty": 2,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0080",
-    "name": "MG-CD DLX/SPLENDOR PRO/NXG SILVER (MG :- Mudgard)",
+    "name": "MG CD DLX SPLENDOR PRO NXG SILVER MG Mudgard",
     "qty": 2,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0081",
-    "name": "MG-SPLENDOR PRO/NXG T.BLUE (MG :- Mudgard)",
+    "name": "MG SPLENDOR PRO NXG T BLUE MG Mudgard",
     "qty": 2,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0082",
-    "name": "MG-SPLENDOR PRO GREY (MG :- Mudgard)",
+    "name": "MG SPLENDOR PRO GREY MG Mudgard",
     "qty": 2,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0082-A",
-    "name": "MG-HF DLX ECO GREEN (MG :- Mudgard)",
+    "name": "MG HF DLX ECO GREEN MG Mudgard",
     "qty": 2,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0077-A",
-    "name": "MG-SPLENDOR PLUS BS-4/BS-6 BLACK (MG :- Mudgard)",
+    "name": "MG SPLENDOR PLUS BS 4 BS 6 BLACK MG Mudgard",
     "qty": 5,
     "mrp": 490,
     "part": "MG"
   },
   {
     "code": "SM-0078-A",
-    "name": "MG-SPLENDOR PLUS BS-4/BS-6 RED (MG :- Mudgard)",
+    "name": "MG SPLENDOR PLUS BS 4 BS 6 RED MG Mudgard",
     "qty": 3,
     "mrp": 490,
     "part": "MG"
   },
   {
     "code": "SM-0079-A",
-    "name": "MG-SPLENDOR PLUS BS-4/BS-6 H.GREY (MG :- Mudgard)",
+    "name": "MG SPLENDOR PLUS BS 4 BS 6 H GREY MG Mudgard",
     "qty": 2,
     "mrp": 490,
     "part": "MG"
   },
   {
     "code": "SM-0080-A",
-    "name": "MG-SPLENDOR PLUS BS-4/BS-6 SILVER (MG :- Mudgard)",
+    "name": "MG SPLENDOR PLUS BS 4 BS 6 SILVER MG Mudgard",
     "qty": 2,
     "mrp": 490,
     "part": "MG"
   },
   {
     "code": "SM-0080-A-1",
-    "name": "MG-SPLENDOR PLUS BS-6 GOLDEN (MG :- Mudgard)",
+    "name": "MG SPLENDOR PLUS BS 6 GOLDEN MG Mudgard",
     "qty": 2,
     "mrp": 490,
     "part": "MG"
   },
   {
     "code": "SM-0082-B",
-    "name": "MG-HF DLX 2015 BLACK (MG :- Mudgard)",
+    "name": "MG HF DLX 2015 BLACK MG Mudgard",
     "qty": 10,
     "mrp": 505,
     "part": "MG"
   },
   {
     "code": "SM-0082-C",
-    "name": "MG-HF DLX 2015 RED (MG :- Mudgard)",
+    "name": "MG HF DLX 2015 RED MG Mudgard",
     "qty": 5,
     "mrp": 505,
     "part": "MG"
   },
   {
     "code": "SM-0082-D",
-    "name": "MG-HF DLX 2015 SILVER (MG :- Mudgard)",
+    "name": "MG HF DLX 2015 SILVER MG Mudgard",
     "qty": 5,
     "mrp": 505,
     "part": "MG"
   },
   {
     "code": "SM-0082-E",
-    "name": "MG-HF DLX 2015 ECO GREEN (MG :- Mudgard)",
+    "name": "MG HF DLX 2015 ECO GREEN MG Mudgard",
     "qty": 5,
     "mrp": 505,
     "part": "MG"
   },
   {
     "code": "SM-0082-F",
-    "name": "MG-HF DLX 2015 WINE RED (MG :- Mudgard)",
+    "name": "MG HF DLX 2015 WINE RED MG Mudgard",
     "qty": 5,
     "mrp": 505,
     "part": "MG"
   },
   {
     "code": "SM-0082-G",
-    "name": "MG-HF DLX BS-4/BS-6 H.GRAY (MG :- Mudgard)",
+    "name": "MG HF DLX BS 4 BS 6 H GRAY MG Mudgard",
     "qty": 5,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0082-I",
-    "name": "MG-HF DLX BS-4/BS-6 BLACK (MG :- Mudgard)",
+    "name": "MG HF DLX BS 4 BS 6 BLACK MG Mudgard",
     "qty": 5,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0082-J",
-    "name": "MG-HF DLX BS-4/BS-6 RED (MG :- Mudgard)",
+    "name": "MG HF DLX BS 4 BS 6 RED MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0082-H",
-    "name": "MG-HF DLX BS-6 BLUE (MG :- Mudgard)",
+    "name": "MG HF DLX BS 6 BLUE MG Mudgard",
     "qty": 2,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0105",
-    "name": "MG-MAESTRO BLACK (MG :- Mudgard)",
+    "name": "MG MAESTRO BLACK MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0106",
-    "name": "MG-MAESTRO RED (MG :- Mudgard)",
+    "name": "MG MAESTRO RED MG Mudgard",
     "qty": 1,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0108",
-    "name": "MG-MAESTRO BLUE (MG :- Mudgard)",
+    "name": "MG MAESTRO BLUE MG Mudgard",
     "qty": 1,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0110-A",
-    "name": "MG-MAESTRO MATT GREY (MG :- Mudgard)",
+    "name": "MG MAESTRO MATT GREY MG Mudgard",
     "qty": 1,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0111",
-    "name": "MG-UNICORN BLACK (MG :- Mudgard)",
+    "name": "MG UNICORN BLACK MG Mudgard",
     "qty": 5,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0112",
-    "name": "MG-UNICORN RED (MG :- Mudgard)",
+    "name": "MG UNICORN RED MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0113",
-    "name": "MG-UNICORN SILVER (MG :- Mudgard)",
+    "name": "MG UNICORN SILVER MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0114",
-    "name": "MG-UNICORN T.BLUE (MG :- Mudgard)",
+    "name": "MG UNICORN T BLUE MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0115",
-    "name": "MG-UNICORN GREY (MG :- Mudgard)",
+    "name": "MG UNICORN GREY MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0116",
-    "name": "MG-CB UNICORN S.RED (MG :- Mudgard)",
+    "name": "MG CB UNICORN S RED MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0117",
-    "name": "MG-CB UNICORN SILVER (MG :- Mudgard)",
+    "name": "MG CB UNICORN SILVER MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0117-A",
-    "name": "MG-CB UNICORN/UNICORN BS-6 BLACK (MG :- Mudgard)",
+    "name": "MG CB UNICORN UNICORN BS 6 BLACK MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0117-B",
-    "name": "MG-CB UNICORN/UNICORN BS-6 RED (MG :- Mudgard)",
+    "name": "MG CB UNICORN UNICORN BS 6 RED MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0117-C",
-    "name": "MG-CB UNICORN/UNICORN BS-6 GRAY (MG :- Mudgard)",
+    "name": "MG CB UNICORN UNICORN BS 6 GRAY MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0117-E",
-    "name": "MG-UNICORN 160 BLACK (MG :- Mudgard)",
+    "name": "MG UNICORN 160 BLACK MG Mudgard",
     "qty": 2,
     "mrp": 270,
     "part": "MG"
   },
   {
     "code": "SM-0117-F",
-    "name": "MG-UNICORN 160 RED (MG :- Mudgard)",
+    "name": "MG UNICORN 160 RED MG Mudgard",
     "qty": 1,
     "mrp": 270,
     "part": "MG"
   },
   {
     "code": "SM-0117-G",
-    "name": "MG-UNICORN 160 WHITE (MG :- Mudgard)",
+    "name": "MG UNICORN 160 WHITE MG Mudgard",
     "qty": 1,
     "mrp": 270,
     "part": "MG"
   },
   {
     "code": "SM-0117-H",
-    "name": "MG-UNICORN 160 BLUE (MG :- Mudgard)",
+    "name": "MG UNICORN 160 BLUE MG Mudgard",
     "qty": 1,
     "mrp": 270,
     "part": "MG"
   },
   {
     "code": "SM-0117-I",
-    "name": "MG-UNICORN 160 GRAY (MG :- Mudgard)",
+    "name": "MG UNICORN 160 GRAY MG Mudgard",
     "qty": 1,
     "mrp": 270,
     "part": "MG"
   },
   {
     "code": "SM-0118",
-    "name": "MG-SHINE O/M BLACK (MG :- Mudgard)",
+    "name": "MG SHINE O M BLACK MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0119",
-    "name": "MG-SHINE/CB SHINE GENY GREY (MG :- Mudgard)",
+    "name": "MG SHINE CB SHINE GENY GREY MG Mudgard",
     "qty": 3,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0120",
-    "name": "MG-SHINE/DREAM YUGA S.RED (MG :- Mudgard)",
+    "name": "MG SHINE DREAM YUGA S RED MG Mudgard",
     "qty": 3,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0121",
-    "name": "MG-SHINE/CB SHINE BLUE (MG :- Mudgard)",
+    "name": "MG SHINE CB SHINE BLUE MG Mudgard",
     "qty": 3,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0123",
-    "name": "MG-SHINE DARK PURPLE (MG :- Mudgard)",
+    "name": "MG SHINE DARK PURPLE MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0123-A",
-    "name": "MG-CB SHINE ( T-4 & T-5) WINE RED (MG :- Mudgard)",
+    "name": "MG CB SHINE T 4 T 5 WINE RED MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0124",
-    "name": "MG-SHINE/CB SHINE/DREAM YUGA BLACK (MG :- Mudgard)",
+    "name": "MG SHINE CB SHINE DREAM YUGA BLACK MG Mudgard",
     "qty": 5,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0125",
-    "name": "MG-DREAM YUGA/CB SHINE ( T-5) ALFA RED (MG :- Mudgard)",
+    "name": "MG DREAM YUGA CB SHINE T 5 ALFA RED MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0126",
-    "name": "MG-CB SHINE T-5/DREAM YUGA SILVER (MG :- Mudgard)",
+    "name": "MG CB SHINE T 5 DREAM YUGA SILVER MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0128",
-    "name": "MG-CB SHINE T-5/DREAM YUGA MANSOON GREY (MG :- Mudgard)",
+    "name": "MG CB SHINE T 5 DREAM YUGA MANSOON GREY MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0128-A",
-    "name": "MG-DREAM YUGA BROWN (MG :- Mudgard)",
+    "name": "MG DREAM YUGA BROWN MG Mudgard",
     "qty": 2,
     "mrp": 530,
     "part": "MG"
   },
   {
     "code": "SM-0128-B",
-    "name": "MG-CB SHINE T-6 & T-7 BLACK (MG :- Mudgard)",
+    "name": "MG CB SHINE T 6 T 7 BLACK MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0115-A",
-    "name": "MG-CB SHINE BS-6/CD 110 BS-6 BLACK (MG :- Mudgard)",
+    "name": "MG CB SHINE BS 6 CD 110 BS 6 BLACK MG Mudgard",
     "qty": 2,
     "mrp": 765,
     "part": "MG"
   },
   {
     "code": "SM-0115-B",
-    "name": "MG-CB SHINE BS-6/CD 110 BS-6 GREY (MG :- Mudgard)",
+    "name": "MG CB SHINE BS 6 CD 110 BS 6 GREY MG Mudgard",
     "qty": 2,
     "mrp": 765,
     "part": "MG"
   },
   {
     "code": "SM-0115-C",
-    "name": "MG-CB SHINE BS-6/CD 110 BS-6 W.RED (MG :- Mudgard)",
+    "name": "MG CB SHINE BS 6 CD 110 BS 6 W RED MG Mudgard",
     "qty": 2,
     "mrp": 765,
     "part": "MG"
   },
   {
     "code": "SM-0115-D",
-    "name": "MG-CB SHINE BS-6/CD 110 BS-6 BLUE (MG :- Mudgard)",
+    "name": "MG CB SHINE BS 6 CD 110 BS 6 BLUE MG Mudgard",
     "qty": 2,
     "mrp": 765,
     "part": "MG"
   },
   {
     "code": "SM-0115-E",
-    "name": "MG-CB SHINE BS-6 MAT GREY (MG :- Mudgard)",
+    "name": "MG CB SHINE BS 6 MAT GREY MG Mudgard",
     "qty": 2,
     "mrp": 765,
     "part": "MG"
   },
   {
     "code": "SM-0128-I",
-    "name": "MG-SHINE SP BLUE (MG :- Mudgard)",
+    "name": "MG SHINE SP BLUE MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0128-J",
-    "name": "MG-SHINE SP RED (MG :- Mudgard)",
+    "name": "MG SHINE SP RED MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0128-J-1",
-    "name": "MG-SHINE SP GREY (MG :- Mudgard)",
+    "name": "MG SHINE SP GREY MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0128-J-2",
-    "name": "MG-SHINE SP BLACK (MG :- Mudgard)",
+    "name": "MG SHINE SP BLACK MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0128-J-3",
-    "name": "MG-SHINE SP WHITE (MG :- Mudgard)",
+    "name": "MG SHINE SP WHITE MG Mudgard",
     "qty": 2,
     "mrp": 630,
     "part": "MG"
   },
   {
     "code": "SM-0128-K",
-    "name": "MG-DREAM CD-110 MATT BLACK (MG :- Mudgard)",
+    "name": "MG DREAM CD 110 MATT BLACK MG Mudgard",
     "qty": 5,
     "mrp": 560,
     "part": "MG"
   },
   {
     "code": "SM-0185",
-    "name": "MG-CALIBER P.GREEN (MG :- Mudgard)",
+    "name": "MG CALIBER P GREEN MG Mudgard",
     "qty": 2,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0186",
-    "name": "MG-CALIBER/PULSAR SILVER (MG :- Mudgard)",
+    "name": "MG CALIBER PULSAR SILVER MG Mudgard",
     "qty": 2,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0187",
-    "name": "MG-CALIBER T.BLUE (MG :- Mudgard)",
+    "name": "MG CALIBER T BLUE MG Mudgard",
     "qty": 2,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0188",
-    "name": "MG-CT-100 BLUE (MG :- Mudgard)",
+    "name": "MG CT 100 BLUE MG Mudgard",
     "qty": 2,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0190",
-    "name": "MG-CALIBER/CT100/PULSAR PURPLE (MG :- Mudgard)",
+    "name": "MG CALIBER CT100 PULSAR PURPLE MG Mudgard",
     "qty": 3,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0192",
-    "name": "MG-CT-100/PLATINA BLACK (MG :- Mudgard)",
+    "name": "MG CT 100 PLATINA BLACK MG Mudgard",
     "qty": 5,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0193",
-    "name": "MG-CT-100 RED (MG :- Mudgard)",
+    "name": "MG CT 100 RED MG Mudgard",
     "qty": 3,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0194",
-    "name": "MG-PLATINA RED (MG :- Mudgard)",
+    "name": "MG PLATINA RED MG Mudgard",
     "qty": 3,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0195",
-    "name": "MG-PLATINA BLUE (MG :- Mudgard)",
+    "name": "MG PLATINA BLUE MG Mudgard",
     "qty": 3,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0196",
-    "name": "MG-PLATINA SILVER (MG :- Mudgard)",
+    "name": "MG PLATINA SILVER MG Mudgard",
     "qty": 2,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0197",
-    "name": "MG-CT-100 HEENA GREEN (MG :- Mudgard)",
+    "name": "MG CT 100 HEENA GREEN MG Mudgard",
     "qty": 2,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-0198",
-    "name": "MG-PLATINA GREY (MG :- Mudgard)",
+    "name": "MG PLATINA GREY MG Mudgard",
     "qty": 2,
     "mrp": 445,
     "part": "MG"
   },
   {
     "code": "SM-1783",
-    "name": "MG-PLATINA ES BLACK (MG :- Mudgard)",
+    "name": "MG PLATINA ES BLACK MG Mudgard",
     "qty": 3,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-1784",
-    "name": "MG-PLATINA ES RED (MG :- Mudgard)",
+    "name": "MG PLATINA ES RED MG Mudgard",
     "qty": 2,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-1785",
-    "name": "MG-PLATINA ES BLUE (MG :- Mudgard)",
+    "name": "MG PLATINA ES BLUE MG Mudgard",
     "qty": 2,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-1786",
-    "name": "MG-PLATINA ES DARK RED (MG :- Mudgard)",
+    "name": "MG PLATINA ES DARK RED MG Mudgard",
     "qty": 2,
     "mrp": 570,
     "part": "MG"
   },
   {
     "code": "SM-0199",
-    "name": "MG-PULSAR DTSI BLACK (MG :- Mudgard)",
+    "name": "MG PULSAR DTSI BLACK MG Mudgard",
     "qty": 3,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0200",
-    "name": "MG-PULSAR DTSI RED (MG :- Mudgard)",
+    "name": "MG PULSAR DTSI RED MG Mudgard",
     "qty": 2,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0201",
-    "name": "MG-PULSAR DTSI GREY/SILVER (MG :- Mudgard)",
+    "name": "MG PULSAR DTSI GREY SILVER MG Mudgard",
     "qty": 1,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0202",
-    "name": "MG-PULSAR DTSI BLUE (MG :- Mudgard)",
+    "name": "MG PULSAR DTSI BLUE MG Mudgard",
     "qty": 2,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0204",
-    "name": "MG-PULSAR DTSI PURPLE (MG :- Mudgard)",
+    "name": "MG PULSAR DTSI PURPLE MG Mudgard",
     "qty": 1,
     "mrp": 465,
     "part": "MG"
   },
   {
     "code": "SM-0209-A",
-    "name": "MG-PULSAR 135CC S.RED (MG :- Mudgard)",
+    "name": "MG PULSAR 135CC S RED MG Mudgard",
     "qty": 3,
     "mrp": 575,
     "part": "MG"
   },
   {
     "code": "SM-0209-B",
-    "name": "MG-PULSAR 135CC BLACK (MG :- Mudgard)",
+    "name": "MG PULSAR 135CC BLACK MG Mudgard",
     "qty": 3,
     "mrp": 575,
     "part": "MG"
   },
   {
     "code": "SM-0210",
-    "name": "MG-DISCOVER O/M BLACK (MG :- Mudgard)",
+    "name": "MG DISCOVER O M BLACK MG Mudgard",
     "qty": 5,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0214",
-    "name": "MG-DISCOVER 100CC/125CC/150CC BLACK (MG :- Mudgard)",
+    "name": "MG DISCOVER 100CC 125CC 150CC BLACK MG Mudgard",
     "qty": 5,
     "mrp": 520,
     "part": "MG"
   },
   {
     "code": "SM-0213-A",
-    "name": "MG-AVENGER BLACK (MG :- Mudgard)",
+    "name": "MG AVENGER BLACK MG Mudgard",
     "qty": 3,
     "mrp": 685,
     "part": "MG"
   },
   {
     "code": "SM-0223",
-    "name": "MG-VICTOR GL BLACK (MG :- Mudgard)",
+    "name": "MG VICTOR GL BLACK MG Mudgard",
     "qty": 3,
     "mrp": 485,
     "part": "MG"
   },
   {
     "code": "SM-0230",
-    "name": "MG-CENTRA/STAR CITY/STAR DLX BLACK (MG :- Mudgard)",
+    "name": "MG CENTRA STAR CITY STAR DLX BLACK MG Mudgard",
     "qty": 5,
     "mrp": 460,
     "part": "MG"
   },
   {
     "code": "SM-0234-A",
-    "name": "MG-CENTRA/STAR CITY/STAR DLX GREEN (MG :- Mudgard)",
+    "name": "MG CENTRA STAR CITY STAR DLX GREEN MG Mudgard",
     "qty": 3,
     "mrp": 460,
     "part": "MG"
   },
   {
     "code": "SM-0239",
-    "name": "MG-STAR CITY PLUS/STAR SPORT T-3 BLACK (MG :- Mudgard)",
+    "name": "MG STAR CITY PLUS STAR SPORT T 3 BLACK MG Mudgard",
     "qty": 3,
     "mrp": 580,
     "part": "MG"
   },
   {
     "code": "SM-0240",
-    "name": "MG-STAR SPORT T-3 RED (MG :- Mudgard)",
+    "name": "MG STAR SPORT T 3 RED MG Mudgard",
     "qty": 1,
     "mrp": 580,
     "part": "MG"
   },
   {
     "code": "SM-0243",
-    "name": "MG-STAR SPORT T-3 WHITE (MG :- Mudgard)",
+    "name": "MG STAR SPORT T 3 WHITE MG Mudgard",
     "qty": 1,
     "mrp": 580,
     "part": "MG"
   },
   {
     "code": "SM-0241",
-    "name": "MG-STAR SPORT T-3 GREY (MG :- Mudgard)",
+    "name": "MG STAR SPORT T 3 GREY MG Mudgard",
     "qty": 1,
     "mrp": 580,
     "part": "MG"
   },
   {
     "code": "SM-0253",
-    "name": "MG-TVS SUPER XL 100CC BLACK (MG :- Mudgard)",
+    "name": "MG TVS SUPER XL 100CC BLACK MG Mudgard",
     "qty": 3,
     "mrp": 260,
     "part": "MG"
   },
   {
     "code": "SM-0157-A",
-    "name": "MG-JUPITER (STEEL) BLACK (MG :- Mudgard)",
+    "name": "MG JUPITER STEEL BLACK MG Mudgard",
     "qty": 3,
     "mrp": 1970,
     "part": "MG"
   },
   {
     "code": "SM-0157-D",
-    "name": "MG-JUPITER (STEEL) MATT GREY (MG :- Mudgard)",
+    "name": "MG JUPITER STEEL MATT GREY MG Mudgard",
     "qty": 2,
     "mrp": 1970,
     "part": "MG"
   },
   {
     "code": "SV-0328-A",
-    "name": "HLV-SPLENDOR PLUS LTD. ED. (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS LTD ED BK RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 530,
     "part": "HLV"
   },
   {
     "code": "SV-0329",
-    "name": "HLV-SPLENDOR PLUS GREEN (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS GREEN HLV High Lift Valve",
     "qty": 3,
     "mrp": 350,
     "part": "HLV"
   },
   {
     "code": "SV-0330",
-    "name": "HLV-SPLENDOR PLUS BLACK (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BLACK HLV High Lift Valve",
     "qty": 10,
     "mrp": 350,
     "part": "HLV"
   },
   {
     "code": "SV-0331",
-    "name": "HLV-SPLENDOR PLUS RED (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 350,
     "part": "HLV"
   },
   {
     "code": "SV-0332",
-    "name": "HLV-SPLENDOR PLUS SILVER (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS SILVER HLV High Lift Valve",
     "qty": 5,
     "mrp": 350,
     "part": "HLV"
   },
   {
     "code": "SV-0333",
-    "name": "HLV-SPLENDOR PLUS T.BLUE (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS T BLUE HLV High Lift Valve",
     "qty": 10,
     "mrp": 350,
     "part": "HLV"
   },
   {
     "code": "SV-0334",
-    "name": "HLV-SPLENDOR PLUS M.BLUE (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS M BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 350,
     "part": "HLV"
   },
   {
     "code": "SV-0334-A",
-    "name": "HLV-SPLENDOR PLUS M.GREY (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS M GREY HLV High Lift Valve",
     "qty": 3,
     "mrp": 350,
     "part": "HLV"
   },
   {
     "code": "SV-0335",
-    "name": "HLV-SPLENDOR PLUS A/W (BK-PURPLE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS A W BK PURPLE HLV High Lift Valve",
     "qty": 2,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0336",
-    "name": "HLV-SPLENDOR PLUS A/W (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS A W BK BLUE HLV High Lift Valve",
     "qty": 5,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0337",
-    "name": "HLV-SPLENDOR PLUS A/W (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS A W BK SILVER HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0338",
-    "name": "HLV-SPLENDOR PLUS A/W (RED-ORANGE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS A W RED ORANGE HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0339",
-    "name": "HLV-SPLENDOR PLUS A/W (SILVER-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS A W SILVER BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0339-C",
-    "name": "HLV-SPLENDOR PLUS XTRC (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS XTRC BK BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 520,
     "part": "HLV"
   },
   {
     "code": "SV-0339-D",
-    "name": "HLV-SPLENDOR PLUS XTRC (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS XTRC BK SILVER HLV High Lift Valve",
     "qty": 3,
     "mrp": 520,
     "part": "HLV"
   },
   {
     "code": "SV-0340",
-    "name": "HLV-SPLENDOR PLUS H. (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS H BK BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0341",
-    "name": "HLV-SPLENDOR PLUS H. (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS H BK SILVER HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0342",
-    "name": "HLV-SPLENDOR PLUS H. (BK-PURPLE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS H BK PURPLE HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0343",
-    "name": "HLV-SPLENDOR PLUS H. (RED-ORANGE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS H RED ORANGE HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0345",
-    "name": "HLV-SPLENDOR PLUS H. (SILVER-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS H SILVER BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 375,
     "part": "HLV"
   },
   {
     "code": "SV-0345-A",
-    "name": "HLV-SPLENDOR PLUS BS-4 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 4 BK BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 400,
     "part": "HLV"
   },
   {
     "code": "SV-0345-B",
-    "name": "HLV-SPLENDOR PLUS BS-4 (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 4 BK SILVER HLV High Lift Valve",
     "qty": 3,
     "mrp": 400,
     "part": "HLV"
   },
   {
     "code": "SV-0345-C",
-    "name": "HLV-SPLENDOR PLUS BS-4 RED (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 4 RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 400,
     "part": "HLV"
   },
   {
     "code": "SV-0345-D",
-    "name": "HLV-SPLENDOR PLUS BS-4 SILVER (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 4 SILVER HLV High Lift Valve",
     "qty": 3,
     "mrp": 400,
     "part": "HLV"
   },
   {
     "code": "SV-0345-E",
-    "name": "HLV-SPLENDOR PLUS BS-4 (BK-GOLDEN) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 4 BK GOLDEN HLV High Lift Valve",
     "qty": 3,
     "mrp": 400,
     "part": "HLV"
   },
   {
     "code": "SV-0345-M",
-    "name": "HLV-SPLENDOR PLUS BS-4 (GREY-GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 4 GREY GREEN HLV High Lift Valve",
     "qty": 3,
     "mrp": 400,
     "part": "HLV"
   },
   {
     "code": "SV-0345-F",
-    "name": "HLV-SPLENDOR PLUS BS-6 (BK- (RED) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 6 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 410,
     "part": "HLV"
   },
   {
     "code": "SV-0345-G",
-    "name": "HLV-SPLENDOR PLUS BS-6 (BK- (BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 6 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 410,
     "part": "HLV"
   },
   {
     "code": "SV-0345-H",
-    "name": "HLV-SPLENDOR PLUS BS-6 (BK- (GRAY) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 6 BK GRAY HLV High Lift Valve",
     "qty": 2,
     "mrp": 410,
     "part": "HLV"
   },
   {
     "code": "SV-0345-I",
-    "name": "HLV-SPLRNDOR PLUS BS-6 (GREY-GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV SPLRNDOR PLUS BS 6 GREY GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 410,
     "part": "HLV"
   },
   {
     "code": "SV-0345-J",
-    "name": "HLV-SPLRNDOR PLUS BS-6 RED (HLV :- High Lift Valve)",
+    "name": "HLV SPLRNDOR PLUS BS 6 RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 410,
     "part": "HLV"
   },
   {
     "code": "SV-0345-M-1",
-    "name": "HLV-SPLENDOR PLUS BS-6 GOLDEN (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PLUS BS 6 GOLDEN HLV High Lift Valve",
     "qty": 3,
     "mrp": 410,
     "part": "HLV"
   },
   {
     "code": "SV-0346",
-    "name": "HLV-SPLENDOR PRO H/H (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0347",
-    "name": "HLV-SPLENDOR PRO H/H (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0348",
-    "name": "HLV-SPLENDOR PRO H/H (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H BK GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0349",
-    "name": "HLV-SPLENDOR PRO H/H (RED-ORANGE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H RED ORANGE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0350",
-    "name": "HLV-SPLENDOR PRO H/H WINE RED (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H WINE RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0351",
-    "name": "HLV-SPLENDOR PRO H/H (SILVER-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H SILVER BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0352",
-    "name": "HLV-SPLENDOR PRO H/H (GREY-GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H GREY GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0353",
-    "name": "HLV-SPLENDOR PRO H/H T.BLUE (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H H T BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0353-A",
-    "name": "HLV-SPLENDOR PRO H. 2015 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H 2015 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0353-B",
-    "name": "HLV-SPLENDOR PRO H. 2015 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H 2015 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0353-C",
-    "name": "HLV-SPLENDOR PRO H. 2015 (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H 2015 BK GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0353-D",
-    "name": "HLV-SPLENDOR PRO H. 2015 SILVER (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H 2015 SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0353-E",
-    "name": "HLV-SPLENDOR PRO H. 2015 RED (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H 2015 RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0353-F",
-    "name": "HLV-SPLENDOR PRO H. 2015 (BK-PINK) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H 2015 BK PINK HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0354",
-    "name": "HLV-SPLENDOR PRO H. (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0355",
-    "name": "HLV-SPLENDOR PRO H. (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0356",
-    "name": "HLV-SPLENDOR PRO H. (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H BK SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0357",
-    "name": "HLV-SPLENDOR PRO H. (RED-ORANGE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H RED ORANGE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0358",
-    "name": "HLV-SPLENDOR PRO H. WINE RED (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H WINE RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0359",
-    "name": "HLV-SPLENDOR PRO H. (SILVER-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H SILVER BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0360",
-    "name": "HLV-SPLENDOR PRO H. (GREY-GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H GREY GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0360-A",
-    "name": "HLV-SPLENDOR PRO H. (PARROT GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H PARROT GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0360-B",
-    "name": "HLV-SPLENDOR PRO H. (GREY-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H GREY BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0360-C",
-    "name": "HLV-SPLENDOR PRO H. GOLDEN (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H GOLDEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0361",
-    "name": "HLV-SPLENDOR PRO H. T.BLUE (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR PRO H T BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 390,
     "part": "HLV"
   },
   {
     "code": "SV-0397",
-    "name": "HLV-SPLENDOR I-SMART SILVER FOR BLUE BIKE (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR I SMART SILVER FOR BLUE BIKE HLV High Lift Valve",
     "qty": 2,
     "mrp": 840,
     "part": "HLV"
   },
   {
     "code": "SV-0399-A",
-    "name": "HLV-SPLENDOR I-SMART (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR I SMART BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 840,
     "part": "HLV"
   },
   {
     "code": "SV-0399-B",
-    "name": "HLV-SPLENDOR I-SMART (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV SPLENDOR I SMART BK SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 840,
     "part": "HLV"
   },
   {
     "code": "SV-0407",
-    "name": "HLV-PASSION PLUS (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PLUS BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 455,
     "part": "HLV"
   },
   {
     "code": "SV-0408",
-    "name": "HLV-PASSION PLUS (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PLUS BK RED HLV High Lift Valve",
     "qty": 5,
     "mrp": 455,
     "part": "HLV"
   },
   {
     "code": "SV-0418",
-    "name": "HLV-PASSION PLUS A/W (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PLUS A W BK RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 455,
     "part": "HLV"
   },
   {
     "code": "SV-0419",
-    "name": "HLV-PASSION PLUS A/W (S.RED-BK) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PLUS A W S RED BK HLV High Lift Valve",
     "qty": 3,
     "mrp": 455,
     "part": "HLV"
   },
   {
     "code": "SV-0422-B",
-    "name": "HLV-PASSION PRO 2016 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO 2016 BK RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 815,
     "part": "HLV"
   },
   {
     "code": "SV-0422-C",
-    "name": "HLV-PASSION PRO 2016 (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO 2016 BK GREY HLV High Lift Valve",
     "qty": 3,
     "mrp": 815,
     "part": "HLV"
   },
   {
     "code": "SV-0422-D",
-    "name": "HLV-PASSION PRO 2016 SILVER (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO 2016 SILVER HLV High Lift Valve",
     "qty": 3,
     "mrp": 815,
     "part": "HLV"
   },
   {
     "code": "SV-0426",
-    "name": "HLV-PASSION PRO (SILVER-BK) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO SILVER BK HLV High Lift Valve",
     "qty": 3,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0427",
-    "name": "HLV-PASSION PRO DIGITAL (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL BK RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0428",
-    "name": "HLV-PASSION PRO DIGITAL (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0429",
-    "name": "HLV-PASSION PRO DIGITAL (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL BK GREY HLV High Lift Valve",
     "qty": 3,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0430",
-    "name": "HLV-PASSION PRO DIGITAL (S.RED-BK) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL S RED BK HLV High Lift Valve",
     "qty": 2,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0431",
-    "name": "HLV-PASSION PRO DIGITAL PARROT GREEN (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL PARROT GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0432",
-    "name": "HLV-PASSION PRO DIGITAL (WHITE-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL WHITE BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0433",
-    "name": "HLV-PASSION PRO DIGITAL (SILVER-BK) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL SILVER BK HLV High Lift Valve",
     "qty": 3,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0434",
-    "name": "HLV-PASSION PRO DIGITAL BLUE (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO DIGITAL BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 770,
     "part": "HLV"
   },
   {
     "code": "SV-0437",
-    "name": "HLV-PASSION X-PRO (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION X PRO BK GREY HLV High Lift Valve",
     "qty": 3,
     "mrp": 775,
     "part": "HLV"
   },
   {
     "code": "SV-0440",
-    "name": "HLV-PASSION X-PRO (SILVER-BK) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION X PRO SILVER BK HLV High Lift Valve",
     "qty": 3,
     "mrp": 775,
     "part": "HLV"
   },
   {
     "code": "SV-0441-A",
-    "name": "HLV-PASSION X-PRO 2018 (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION X PRO 2018 BK GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 885,
     "part": "HLV"
   },
   {
     "code": "SV-0441-B",
-    "name": "HLV-PASSION X-PRO 2018 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION X PRO 2018 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 885,
     "part": "HLV"
   },
   {
     "code": "SV-0441-C",
-    "name": "HLV-PASSION X-PRO 2018 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PASSION X PRO 2018 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 885,
     "part": "HLV"
   },
   {
     "code": "SV-0441-D",
-    "name": "HLV-PASSION X-PRO 2018 S.RED (HLV :- High Lift Valve)",
+    "name": "HLV PASSION X PRO 2018 S RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 885,
     "part": "HLV"
   },
   {
     "code": "SV-0416-A",
-    "name": "HLV-PASSION PRO BS-6 BLACK (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO BS 6 BLACK HLV High Lift Valve",
     "qty": 2,
     "mrp": 1280,
     "part": "HLV"
   },
   {
     "code": "SV-0416-B",
-    "name": "HLV-PASSION PRO BS-6 BLUE (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO BS 6 BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 1280,
     "part": "HLV"
   },
   {
     "code": "SV-0416-C",
-    "name": "HLV-PASSION PRO BS-6 GREY (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO BS 6 GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 1280,
     "part": "HLV"
   },
   {
     "code": "SV-0416-D",
-    "name": "HLV-PASSION PRO BS-6 S.RED (HLV :- High Lift Valve)",
+    "name": "HLV PASSION PRO BS 6 S RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 1280,
     "part": "HLV"
   },
   {
     "code": "SV-0478",
-    "name": "HLV-HF DLX ECO GREEN (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX ECO GREEN HLV High Lift Valve",
     "qty": 3,
     "mrp": 450,
     "part": "HLV"
   },
   {
     "code": "SV-0479",
-    "name": "HLV-HF DLX (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BK BLUE HLV High Lift Valve",
     "qty": 3,
     "mrp": 450,
     "part": "HLV"
   },
   {
     "code": "SV-0480",
-    "name": "HLV-HF DLX (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BK RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 450,
     "part": "HLV"
   },
   {
     "code": "SV-0481",
-    "name": "HLV-HF DLX (RED-ORANGE) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX RED ORANGE HLV High Lift Valve",
     "qty": 3,
     "mrp": 450,
     "part": "HLV"
   },
   {
     "code": "SV-0482",
-    "name": "HLV-HF DLX WINE RED (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX WINE RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 450,
     "part": "HLV"
   },
   {
     "code": "SV-0483",
-    "name": "HLV-HF DLX (SILVER-RED) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX SILVER RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 450,
     "part": "HLV"
   },
   {
     "code": "SV-0483-F",
-    "name": "HLV-HF DLX BS-4 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 4 BK RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 490,
     "part": "HLV"
   },
   {
     "code": "SV-0483-G",
-    "name": "HLV-HF DLX BS-4 (BK-GRAY) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 4 BK GRAY HLV High Lift Valve",
     "qty": 3,
     "mrp": 490,
     "part": "HLV"
   },
   {
     "code": "SV-0483-H",
-    "name": "HLV-HF DLX BS-4 (BK-PURPLE) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 4 BK PURPLE HLV High Lift Valve",
     "qty": 3,
     "mrp": 490,
     "part": "HLV"
   },
   {
     "code": "SV-0483-I",
-    "name": "HLV-HF DLX BS-4 RED (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 4 RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 490,
     "part": "HLV"
   },
   {
     "code": "SV-0483-J",
-    "name": "HLV-HF DLX BS-4 GREY (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 4 GREY HLV High Lift Valve",
     "qty": 3,
     "mrp": 490,
     "part": "HLV"
   },
   {
     "code": "SV-0483-K",
-    "name": "HLV-HF DLX BS-6 (NEXUS-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 6 NEXUS BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 525,
     "part": "HLV"
   },
   {
     "code": "SV-0483-L",
-    "name": "HLV-HF DLX BS-6 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 6 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 500,
     "part": "HLV"
   },
   {
     "code": "SV-0483-O",
-    "name": "HLV-HF DLX BS-6 BLUE (HLV :- High Lift Valve)",
+    "name": "HLV HF DLX BS 6 BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 500,
     "part": "HLV"
   },
   {
     "code": "SV-0547",
-    "name": "HLV-UNICORN BLACK (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN BLACK HLV High Lift Valve",
     "qty": 3,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0548",
-    "name": "HLV-UNICORN RED (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN RED HLV High Lift Valve",
     "qty": 3,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0549",
-    "name": "HLV-UNICORN SILVER (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0550",
-    "name": "HLV-UNICORN T.BLUE (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN T BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0551",
-    "name": "HLV-UNICORN GREY (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0552",
-    "name": "HLV-UNICORN (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 730,
     "part": "HLV"
   },
   {
     "code": "SV-0553",
-    "name": "HLV-UNICORN BS-6 BLACK (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN BS 6 BLACK HLV High Lift Valve",
     "qty": 2,
     "mrp": 1270,
     "part": "HLV"
   },
   {
     "code": "SV-0554",
-    "name": "HLV-UNICORN BS-6 RED (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN BS 6 RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 1270,
     "part": "HLV"
   },
   {
     "code": "SV-0555",
-    "name": "HLV-UNICORN BS-6 GREY (HLV :- High Lift Valve)",
+    "name": "HLV UNICORN BS 6 GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 1270,
     "part": "HLV"
   },
   {
     "code": "SV-0558",
-    "name": "HLV-SHINE O/M BLACK (HLV :- High Lift Valve)",
+    "name": "HLV SHINE O M BLACK HLV High Lift Valve",
     "qty": 3,
     "mrp": 575,
     "part": "HLV"
   },
   {
     "code": "SV-0561",
-    "name": "HLV-SHINE O/M GREY (HLV :- High Lift Valve)",
+    "name": "HLV SHINE O M GREY HLV High Lift Valve",
     "qty": 3,
     "mrp": 575,
     "part": "HLV"
   },
   {
     "code": "SV-0562",
-    "name": "HLV-SHINE O/M DARK PURPLE (HLV :- High Lift Valve)",
+    "name": "HLV SHINE O M DARK PURPLE HLV High Lift Valve",
     "qty": 3,
     "mrp": 575,
     "part": "HLV"
   },
   {
     "code": "SV-0562-E",
-    "name": "HLV-SHINE SP BS-6 (BK-GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV SHINE SP BS 6 BK GREEN HLV High Lift Valve",
     "qty": 3,
     "mrp": 1070,
     "part": "HLV"
   },
   {
     "code": "SV-0564",
-    "name": "HLV-SHINE T-2 (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV SHINE T 2 BK GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 590,
     "part": "HLV"
   },
   {
     "code": "SV-0566-A",
-    "name": "HLV-SHINE T-2 S.RED (HLV :- High Lift Valve)",
+    "name": "HLV SHINE T 2 S RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 590,
     "part": "HLV"
   },
   {
     "code": "SV-0570",
-    "name": "HLV-SHINE T-3 BLUE (HLV :- High Lift Valve)",
+    "name": "HLV SHINE T 3 BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 575,
     "part": "HLV"
   },
   {
     "code": "SV-0570-A",
-    "name": "HLV-CB SHINE BS-6 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV CB SHINE BS 6 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 1260,
     "part": "HLV"
   },
   {
     "code": "SV-0570-C",
-    "name": "HLV-CB SHINE BS-6 RED (HLV :- High Lift Valve)",
+    "name": "HLV CB SHINE BS 6 RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 1260,
     "part": "HLV"
   },
   {
     "code": "SV-0570-E",
-    "name": "HLV-CB SHINE BS-6 MAT GREY (HLV :- High Lift Valve)",
+    "name": "HLV CB SHINE BS 6 MAT GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 1260,
     "part": "HLV"
   },
   {
     "code": "SV-0572",
-    "name": "HLV-CB SHINE T-4 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV CB SHINE T 4 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 575,
     "part": "HLV"
   },
   {
     "code": "SV-0574",
-    "name": "HLV-CB SHINE T-4 WINE RED (HLV :- High Lift Valve)",
+    "name": "HLV CB SHINE T 4 WINE RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 575,
     "part": "HLV"
   },
   {
     "code": "SV-0575",
-    "name": "HLV-CB SHINE T-4 BLUE (HLV :- High Lift Valve)",
+    "name": "HLV CB SHINE T 4 BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 575,
     "part": "HLV"
   },
   {
     "code": "SV-0585",
-    "name": "HLV-ACTIVA O/M SILVER (HLV :- High Lift Valve)",
+    "name": "HLV ACTIVA O M SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 460,
     "part": "HLV"
   },
   {
     "code": "SV-0586",
-    "name": "HLV-ACTIVA O/M T.BLUE (HLV :- High Lift Valve)",
+    "name": "HLV ACTIVA O M T BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 460,
     "part": "HLV"
   },
   {
     "code": "SV-0587",
-    "name": "HLV-ACTIVA O/M GREY (HLV :- High Lift Valve)",
+    "name": "HLV ACTIVA O M GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 460,
     "part": "HLV"
   },
   {
     "code": "SV-0588",
-    "name": "HLV-ACTIVA O/M GOLDEN (HLV :- High Lift Valve)",
+    "name": "HLV ACTIVA O M GOLDEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 460,
     "part": "HLV"
   },
   {
     "code": "SV-0624",
-    "name": "HLV-DREAM YUGA BLACK (HLV :- High Lift Valve)",
+    "name": "HLV DREAM YUGA BLACK HLV High Lift Valve",
     "qty": 2,
     "mrp": 530,
     "part": "HLV"
   },
   {
     "code": "SV-0632-C",
-    "name": "HLV-DREAM YUGA S.RED (HLV :- High Lift Valve)",
+    "name": "HLV DREAM YUGA S RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 530,
     "part": "HLV"
   },
   {
     "code": "SV-0631-A",
-    "name": "HLV-DREAM YUGA N/G (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV DREAM YUGA N G BK GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 585,
     "part": "HLV"
   },
   {
     "code": "SV-0632-B",
-    "name": "HLV-DREAM YUGA N/G (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV DREAM YUGA N G BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 585,
     "part": "HLV"
   },
   {
     "code": "SV-0632-A-2",
-    "name": "HLV-DREAM YUGA N/G RED (HLV :- High Lift Valve)",
+    "name": "HLV DREAM YUGA N G RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 585,
     "part": "HLV"
   },
   {
     "code": "SV-0637",
-    "name": "HLV-PULSAR DTSI BLACK (HLV :- High Lift Valve)",
+    "name": "HLV PULSAR DTSI BLACK HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0638",
-    "name": "HLV-PULSAR DTSI RED (HLV :- High Lift Valve)",
+    "name": "HLV PULSAR DTSI RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0640",
-    "name": "HLV-PULSAR DTSI SILVER/GREY (HLV :- High Lift Valve)",
+    "name": "HLV PULSAR DTSI SILVER GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0641",
-    "name": "HLV-PULSAR DTSI BLUE (HLV :- High Lift Valve)",
+    "name": "HLV PULSAR DTSI BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0642",
-    "name": "HLV-PULSAR DTSI PURPLE (HLV :- High Lift Valve)",
+    "name": "HLV PULSAR DTSI PURPLE HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0664",
-    "name": "HLV-DISCOVER 100CC (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0665",
-    "name": "HLV-DISCOVER 100CC (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0666",
-    "name": "HLV-DISCOVER 100CC (BK-GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC BK GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0667",
-    "name": "HLV-DISCOVER 100CC RED (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0668",
-    "name": "HLV-DISCOVER 100CC BLUE (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0675-A",
-    "name": "HLV-DISCOVER 100CC H-3 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC H 3 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 710,
     "part": "HLV"
   },
   {
     "code": "SV-0675-B",
-    "name": "HLV-DISCOVER 100CC H-3 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC H 3 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 710,
     "part": "HLV"
   },
   {
     "code": "SV-0675-C",
-    "name": "HLV-DISCOVER 100CC H-3 RED (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC H 3 RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 710,
     "part": "HLV"
   },
   {
     "code": "SV-0675-D",
-    "name": "HLV-DISCOVER 100CC H-3 BLUE (HLV :- High Lift Valve)",
+    "name": "HLV DISCOVER 100CC H 3 BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 710,
     "part": "HLV"
   },
   {
     "code": "SV-0684",
-    "name": "HLV-CT-100 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 610,
     "part": "HLV"
   },
   {
     "code": "SV-0685",
-    "name": "HLV-CT-100 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 610,
     "part": "HLV"
   },
   {
     "code": "SV-0686",
-    "name": "HLV-CT-100 (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BK GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 610,
     "part": "HLV"
   },
   {
     "code": "SV-0687",
-    "name": "HLV-CT-100 RED (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 610,
     "part": "HLV"
   },
   {
     "code": "SV-0688",
-    "name": "HLV-CT-100 HEENA GREEN (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 HEENA GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 610,
     "part": "HLV"
   },
   {
     "code": "SV-0689",
-    "name": "HLV-CT-100 BLUE (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 610,
     "part": "HLV"
   },
   {
     "code": "SV-0690",
-    "name": "HLV-CT-100 PURPLE (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 PURPLE HLV High Lift Valve",
     "qty": 2,
     "mrp": 610,
     "part": "HLV"
   },
   {
     "code": "SV-0691",
-    "name": "HLV-CT-100 N/M (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 N M BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0691-A",
-    "name": "HLV-CT-100 N/M (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 N M BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0691-B",
-    "name": "HLV-CT-100 N/M RED (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 N M RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0691-C",
-    "name": "HLV-CT-100 N/M BLUE (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 N M BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 650,
     "part": "HLV"
   },
   {
     "code": "SV-0690-A",
-    "name": "HLV-CT-100 BS-4 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BS 4 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 680,
     "part": "HLV"
   },
   {
     "code": "SV-0690-B",
-    "name": "HLV-CT-100 BS-4 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BS 4 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 680,
     "part": "HLV"
   },
   {
     "code": "SV-0690-C",
-    "name": "HLV-CT-100 BS-4 H.GREEN (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BS 4 H GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 680,
     "part": "HLV"
   },
   {
     "code": "SV-0690-D",
-    "name": "HLV-CT-100 BS-4 ARMY COLOR (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BS 4 ARMY COLOR HLV High Lift Valve",
     "qty": 2,
     "mrp": 680,
     "part": "HLV"
   },
   {
     "code": "SV-0691-G",
-    "name": "HLV-CT-100 BS-6 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BS 6 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0691-H",
-    "name": "HLV-CT-100 BS-6 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BS 6 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0691-I",
-    "name": "HLV-CT-100 BS-6 RED (HLV :- High Lift Valve)",
+    "name": "HLV CT 100 BS 6 RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0692",
-    "name": "HLV-PLATINA (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA BK SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0693",
-    "name": "HLV-PLATINA (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0694",
-    "name": "HLV-PLATINA (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0695",
-    "name": "HLV-PLATINA RED (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0696",
-    "name": "HLV-PLATINA SILVER (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0697",
-    "name": "HLV-PLATINA GREY (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0698",
-    "name": "HLV-PLATINA BLUE (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-0699",
-    "name": "HLV-PLATINA 125CC (BK-GREEN) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA 125CC BK GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0700",
-    "name": "HLV-PLATINA 125CC (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA 125CC BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0701",
-    "name": "HLV-PLATINA 125CC (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA 125CC BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0702",
-    "name": "HLV-PLATINA 125CC RED (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA 125CC RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0703",
-    "name": "HLV-PLATINA 125CC SILVER (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA 125CC SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-0704",
-    "name": "HLV-PLATINA 125CC BLUE (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA 125CC BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 690,
     "part": "HLV"
   },
   {
     "code": "SV-1780",
-    "name": "HLV-PLATINA ES (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA ES BK SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-1781",
-    "name": "HLV-PLATINA ES RED (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA ES RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-1782",
-    "name": "HLV-PLATINA ES BLUE (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA ES BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-1783",
-    "name": "HLV-PLATINA ES (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA ES BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 665,
     "part": "HLV"
   },
   {
     "code": "SV-1782-A",
-    "name": "HLV-PLATINA LED (BK-GREY) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BK GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 695,
     "part": "HLV"
   },
   {
     "code": "SV-1782-A-1",
-    "name": "HLV-PLATINA LED (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 695,
     "part": "HLV"
   },
   {
     "code": "SV-1782-B",
-    "name": "HLV-PLATINA LED (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 695,
     "part": "HLV"
   },
   {
     "code": "SV-1782-C",
-    "name": "HLV-PLATINA LED RED (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 695,
     "part": "HLV"
   },
   {
     "code": "SV-1782-D",
-    "name": "HLV-PLATINA LED BLUE (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 695,
     "part": "HLV"
   },
   {
     "code": "SV-1782-E",
-    "name": "HLV-PLATINA LED DARK RED (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED DARK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 695,
     "part": "HLV"
   },
   {
     "code": "SV-1782-F",
-    "name": "HLV-PLATINA LED BS-4 (BK-PINK) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BS 4 BK PINK HLV High Lift Valve",
     "qty": 2,
     "mrp": 750,
     "part": "HLV"
   },
   {
     "code": "SV-1782-G",
-    "name": "HLV-PLATINA LED BS-4 (BK-BLUE) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BS 4 BK BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 750,
     "part": "HLV"
   },
   {
     "code": "SV-1782-H",
-    "name": "HLV-PLATINA LED BS-4 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BS 4 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 750,
     "part": "HLV"
   },
   {
     "code": "SV-1782-H-1",
-    "name": "HLV-PLATINA LED BS-4 (BK-BROWN) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA LED BS 4 BK BROWN HLV High Lift Valve",
     "qty": 2,
     "mrp": 750,
     "part": "HLV"
   },
   {
     "code": "SV-1782-I",
-    "name": "HLV-PLATINA BS-6 (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA BS 6 BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 790,
     "part": "HLV"
   },
   {
     "code": "SV-1782-M",
-    "name": "HLV-PLATINA BS-6 (BK-BROWN) (HLV :- High Lift Valve)",
+    "name": "HLV PLATINA BS 6 BK BROWN HLV High Lift Valve",
     "qty": 2,
     "mrp": 790,
     "part": "HLV"
   },
   {
     "code": "SV-0705",
-    "name": "HLV-BOXER CT BLACK (HLV :- High Lift Valve)",
+    "name": "HLV BOXER CT BLACK HLV High Lift Valve",
     "qty": 2,
     "mrp": 470,
     "part": "HLV"
   },
   {
     "code": "SV-0706",
-    "name": "HLV-BOXER CT WINE RED (HLV :- High Lift Valve)",
+    "name": "HLV BOXER CT WINE RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 470,
     "part": "HLV"
   },
   {
     "code": "SV-0707",
-    "name": "HLV-BOXER CT SILVER (HLV :- High Lift Valve)",
+    "name": "HLV BOXER CT SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 470,
     "part": "HLV"
   },
   {
     "code": "SV-0708",
-    "name": "HLV-BOXER CT BLUE (HLV :- High Lift Valve)",
+    "name": "HLV BOXER CT BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 470,
     "part": "HLV"
   },
   {
     "code": "SV-0708-A",
-    "name": "HLV-BOXER CT GREEN (HLV :- High Lift Valve)",
+    "name": "HLV BOXER CT GREEN HLV High Lift Valve",
     "qty": 2,
     "mrp": 470,
     "part": "HLV"
   },
   {
     "code": "SV-0771",
-    "name": "HLV-STAR CVTI 110CC N/M (BK-RED) (HLV :- High Lift Valve)",
+    "name": "HLV STAR CVTI 110CC N M BK RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 740,
     "part": "HLV"
   },
   {
     "code": "SV-0773",
-    "name": "HLV-STAR CVTI 110CC N/M (BK-SILVER) (HLV :- High Lift Valve)",
+    "name": "HLV STAR CVTI 110CC N M BK SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 740,
     "part": "HLV"
   },
   {
     "code": "SV-0777",
-    "name": "HLV-STAR CVTI 110CC N/M RED (HLV :- High Lift Valve)",
+    "name": "HLV STAR CVTI 110CC N M RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 740,
     "part": "HLV"
   },
   {
     "code": "SV-0814",
-    "name": "HLV-JUPITER BLACK (HLV :- High Lift Valve)",
+    "name": "HLV JUPITER BLACK HLV High Lift Valve",
     "qty": 2,
     "mrp": 540,
     "part": "HLV"
   },
   {
     "code": "SV-0815",
-    "name": "HLV-JUPITER RED (HLV :- High Lift Valve)",
+    "name": "HLV JUPITER RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 540,
     "part": "HLV"
   },
   {
     "code": "SV-0816",
-    "name": "HLV-JUPITER MATT GREY (HLV :- High Lift Valve)",
+    "name": "HLV JUPITER MATT GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 540,
     "part": "HLV"
   },
   {
     "code": "SV-0817",
-    "name": "HLV-JUPITER WHITE (HLV :- High Lift Valve)",
+    "name": "HLV JUPITER WHITE HLV High Lift Valve",
     "qty": 2,
     "mrp": 540,
     "part": "HLV"
   },
   {
     "code": "SV-0817-A",
-    "name": "HLV-JUPITER BROWN (HLV :- High Lift Valve)",
+    "name": "HLV JUPITER BROWN HLV High Lift Valve",
     "qty": 2,
     "mrp": 540,
     "part": "HLV"
   },
   {
     "code": "SV-0817-B",
-    "name": "HLV-JUPITER DEEP SKY BLUE (HLV :- High Lift Valve)",
+    "name": "HLV JUPITER DEEP SKY BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 540,
     "part": "HLV"
   },
   {
     "code": "SV-0817-C",
-    "name": "HLV-JUPITER SILVER (HLV :- High Lift Valve)",
+    "name": "HLV JUPITER SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 540,
     "part": "HLV"
   },
   {
     "code": "SV-0822",
-    "name": "HLV-ACCESS BLACK (HLV :- High Lift Valve)",
+    "name": "HLV ACCESS BLACK HLV High Lift Valve",
     "qty": 2,
     "mrp": 525,
     "part": "HLV"
   },
   {
     "code": "SV-0823",
-    "name": "HLV-ACCESS RED (HLV :- High Lift Valve)",
+    "name": "HLV ACCESS RED HLV High Lift Valve",
     "qty": 2,
     "mrp": 525,
     "part": "HLV"
   },
   {
     "code": "SV-0824",
-    "name": "HLV-ACCESS SILVER (HLV :- High Lift Valve)",
+    "name": "HLV ACCESS SILVER HLV High Lift Valve",
     "qty": 2,
     "mrp": 525,
     "part": "HLV"
   },
   {
     "code": "SV-0825-A",
-    "name": "HLV-ACCESS BLUE (HLV :- High Lift Valve)",
+    "name": "HLV ACCESS BLUE HLV High Lift Valve",
     "qty": 2,
     "mrp": 525,
     "part": "HLV"
   },
   {
     "code": "SV-0826",
-    "name": "HLV-ACCESS GREY (HLV :- High Lift Valve)",
+    "name": "HLV ACCESS GREY HLV High Lift Valve",
     "qty": 2,
     "mrp": 525,
     "part": "HLV"
   },
   {
     "code": "SP-0855-A",
-    "name": "SP-SPLENDOR PRO 2016 (BK-RED) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO 2016 BK RED SP Side Panel",
     "qty": 3,
     "mrp": 725,
     "part": "SP"
   },
   {
     "code": "SP-0855-B",
-    "name": "SP-SPLENDOR PRO 2016 (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO 2016 BK BLUE SP Side Panel",
     "qty": 3,
     "mrp": 725,
     "part": "SP"
   },
   {
     "code": "SP-0855-C",
-    "name": "SP-SPLENDOR PRO 2016 (BK-GREY) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO 2016 BK GREY SP Side Panel",
     "qty": 3,
     "mrp": 725,
     "part": "SP"
   },
   {
     "code": "SP-0858",
-    "name": "SP-SPLENDOR Y2K RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR Y2K RED SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0859",
-    "name": "SP-SPLENDOR Y2K SILVER (SP :- Side Panel)",
+    "name": "SP SPLENDOR Y2K SILVER SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0860",
-    "name": "SP-SPLENDOR Y2K M.BLUE (SP :- Side Panel)",
+    "name": "SP SPLENDOR Y2K M BLUE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0861",
-    "name": "SP-SPLENDOR Y2K BLUE (SP :- Side Panel)",
+    "name": "SP SPLENDOR Y2K BLUE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0861-A",
-    "name": "SP-SPLENDOR PLUS BS-4 (BOTH SIDE SCREW) (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 4 BOTH SIDE SCREW BK BLUE SP Side Panel",
     "qty": 3,
     "mrp": 520,
     "part": "SP"
   },
   {
     "code": "SP-0861-B",
-    "name": "SP-SPLENDOR PLUS BS-4 (BOTH SIDE SCREW) (BK-GREY) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 4 BOTH SIDE SCREW BK GREY SP Side Panel",
     "qty": 3,
     "mrp": 520,
     "part": "SP"
   },
   {
     "code": "SP-0861-C",
-    "name": "SP-SPLENDOR PLUS BS-4 (BOTH SIDE SCREW) (BK-GOLDEN) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 4 BOTH SIDE SCREW BK GOLDEN SP Side Panel",
     "qty": 3,
     "mrp": 520,
     "part": "SP"
   },
   {
     "code": "SP-0861-D",
-    "name": "SP-SPLENDOR PLUS BS-4 (BOTH SIDE SCREW) SILVER (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 4 BOTH SIDE SCREW SILVER SP Side Panel",
     "qty": 3,
     "mrp": 520,
     "part": "SP"
   },
   {
     "code": "SP-0861-E",
-    "name": "SP-SPLENDOR PLUS BS-4 (BOTH SIDE SCREW) RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 4 BOTH SIDE SCREW RED SP Side Panel",
     "qty": 3,
     "mrp": 520,
     "part": "SP"
   },
   {
     "code": "SP-0861-F",
-    "name": "SP-SPLENDOR PLUS BS-4 (BOTH SIDE SCREW) (GREY-GREEEN) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 4 BOTH SIDE SCREW GREY GREEEN SP Side Panel",
     "qty": 3,
     "mrp": 520,
     "part": "SP"
   },
   {
     "code": "SP-0862",
-    "name": "SP-SPLENDOR PLUS (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BK BLUE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0863",
-    "name": "SP-SPLENDOR PLUS (BK-ORANGE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BK ORANGE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0864",
-    "name": "SP-SPLENDOR PLUS (BK-YELLOW) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BK YELLOW SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0865",
-    "name": "SP-SPLENDOR PLUS (RED-GOLDEN) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS RED GOLDEN SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0866",
-    "name": "SP-SPLENDOR PLUS (SILVER-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS SILVER BLUE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0867",
-    "name": "SP-SPLENDOR PLUS (SILVER-RED) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS SILVER RED SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0868",
-    "name": "SP-SPLENDOR PLUS T.BLUE (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS T BLUE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0869",
-    "name": "SP-SPLENDOR PLUS M.BLUE (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS M BLUE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0869-A",
-    "name": "SP-SPLENDOR PLUS GREEN (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS GREEN SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0869-B",
-    "name": "SP-SPLENDOR PLUS (BK-RED) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BK RED SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0869-C",
-    "name": "SP-SPLENDOR PLUS (BK-PURPLE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BK PURPLE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0870",
-    "name": "SP-SPLENDOR PLUS A/W (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS A W BK BLUE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0871",
-    "name": "SP-SPLENDOR PLUS A/W RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS A W RED SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0872",
-    "name": "SP-SPLENDOR PLUS A/W SILVER (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS A W SILVER SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0873",
-    "name": "SP-SPLENDOR PLUS A/W (BK-PURPLE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS A W BK PURPLE SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0874",
-    "name": "SP-SPLENDOR PLUS A/W (BK-SILVER) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS A W BK SILVER SP Side Panel",
     "qty": 3,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0874-A",
-    "name": "SP-SPLENDOR PLUS BS-6 (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 6 BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 540,
     "part": "SP"
   },
   {
     "code": "SP-0874-B",
-    "name": "SP-SPLENDOR PLUS BS-6 (BK-RED) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 6 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 540,
     "part": "SP"
   },
   {
     "code": "SP-0874-C",
-    "name": "SP-SPLENDOR PLUS BS-6 (BK-GREY) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 6 BK GREY SP Side Panel",
     "qty": 2,
     "mrp": 540,
     "part": "SP"
   },
   {
     "code": "SP-0874-D",
-    "name": "SP-SPLENDOR PLUS BS-6 (GREY-GREEN) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS BS 6 GREY GREEN SP Side Panel",
     "qty": 2,
     "mrp": 540,
     "part": "SP"
   },
   {
     "code": "SP-0875",
-    "name": "SP-SPLENDOR PLUS H. (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS H BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0876",
-    "name": "SP-SPLENDOR PLUS H. (BK-SILVER) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS H BK SILVER SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0877",
-    "name": "SP-SPLENDOR PLUS H. (BK-PURPLE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS H BK PURPLE SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0878",
-    "name": "SP-SPLENDOR PLUS H. RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS H RED SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0880",
-    "name": "SP-SPLENDOR PLUS H.SILVER (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS H SILVER SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0880-A",
-    "name": "SP-SPLENDOR PLUS LTD.EDITION (BK-RED) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PLUS LTD EDITION BK RED SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0881",
-    "name": "SP-SPLENDOR PRO H/H (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0882",
-    "name": "SP-SPLENDOR PRO H/H (BK-RED) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H BK RED SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0883",
-    "name": "SP-SPLENDOR PRO H/H (BK-GREY) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H BK GREY SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0884",
-    "name": "SP-SPLENDOR PRO H/H RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H RED SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0884-C",
-    "name": "SP-SPLENDOR PRO H/H BK-GREEN (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H BK GREEN SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0885",
-    "name": "SP-SPLENDOR PRO H/H WINE RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H WINE RED SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0886",
-    "name": "SP-SPLENDOR PRO H/H SILVER (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H SILVER SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0887",
-    "name": "SP-SPLENDOR PRO H/H GREY (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H GREY SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0888",
-    "name": "SP-SPLENDOR PRO H/H T.BLUE (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H H T BLUE SP Side Panel",
     "qty": 2,
     "mrp": 510,
     "part": "SP"
   },
   {
     "code": "SP-0889",
-    "name": "SP-SPLENDOR PRO H.(BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0890",
-    "name": "SP-SPLENDOR PRO H. (BK-RED ) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H BK RED SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0891",
-    "name": "SP-SPLENDOR PRO H. (BK-SILVER) (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H BK SILVER SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0892",
-    "name": "SP-SPLENDOR PRO H. RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H RED SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0893",
-    "name": "SP-SPLENDOR PRO H. WINE RED (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H WINE RED SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0894",
-    "name": "SP-SPLENDOR PRO H. SILVER (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H SILVER SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0895",
-    "name": "SP-SPLENDOR PRO H. GREY (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H GREY SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0896",
-    "name": "SP-SPLENDOR PRO H. T.BLUE (SP :- Side Panel)",
+    "name": "SP SPLENDOR PRO H T BLUE SP Side Panel",
     "qty": 2,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-0897",
-    "name": "SP-SUPER SPLENDOR O/M (BK-PURPLE) (SP :- Side Panel)",
+    "name": "SP SUPER SPLENDOR O M BK PURPLE SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-0898",
-    "name": "SP-SUPER SPLENDOR O/M (BK-ORANGE) (SP :- Side Panel)",
+    "name": "SP SUPER SPLENDOR O M BK ORANGE SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-0899",
-    "name": "SP-SUPER SPLENDOR O/M RED (SP :- Side Panel)",
+    "name": "SP SUPER SPLENDOR O M RED SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-0900",
-    "name": "SP-SUPER SPLENDOR O/M SILVER (SP :- Side Panel)",
+    "name": "SP SUPER SPLENDOR O M SILVER SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-0901",
-    "name": "SP-SUPER SPLENDOR O/M (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SUPER SPLENDOR O M BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-0955",
-    "name": "SP-PASSION PLUS (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP PASSION PLUS BK BLUE SP Side Panel",
     "qty": 3,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0956",
-    "name": "SP-PASSION PLUS (BK-RED) (SP :- Side Panel)",
+    "name": "SP PASSION PLUS BK RED SP Side Panel",
     "qty": 3,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0957",
-    "name": "SP-PASSION PLUS (BK-ORANGE) (SP :- Side Panel)",
+    "name": "SP PASSION PLUS BK ORANGE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0958",
-    "name": "SP-PASSION PLUS (SILVER-BLUE) (SP :- Side Panel)",
+    "name": "SP PASSION PLUS SILVER BLUE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0959",
-    "name": "SP-PASSION PLUS (SILVER-RED) (SP :- Side Panel)",
+    "name": "SP PASSION PLUS SILVER RED SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0965",
-    "name": "SP-PASSION PLUS A/W PANEL S.RED FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PLUS A W PANEL S RED FOR BLACK BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0968",
-    "name": "SP-PASSION PLUS A/W PANEL BLACK FOR WINE RED BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PLUS A W PANEL BLACK FOR WINE RED BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0971",
-    "name": "SP-PASSION PRO PANEL S.RED FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO PANEL S RED FOR BLACK BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0973",
-    "name": "SP-PASSION PRO PANEL BLACK FOR SPORTS RED BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO PANEL BLACK FOR SPORTS RED BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0974",
-    "name": "SP-PASSION PRO PANEL BLACK FOR SILVER BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO PANEL BLACK FOR SILVER BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0975",
-    "name": "SP-PASSION PRO DIGITAL PANEL S.RED FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO DIGITAL PANEL S RED FOR BLACK BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0976",
-    "name": "SP-PASSION PRO DIGITAL PANEL SKY BLUE FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO DIGITAL PANEL SKY BLUE FOR BLACK BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0978",
-    "name": "SP-PASSION PRO DIGITAL PANEL BLACK FOR S.RED BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO DIGITAL PANEL BLACK FOR S RED BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0978-A",
-    "name": "SP-PASSION PRO DIGITAL PANEL BLACK FOR SILVER BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO DIGITAL PANEL BLACK FOR SILVER BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0980",
-    "name": "SP-PASSION PRO DIGITAL PANEL BLACK FOR WHITE BIKE (SP :- Side Panel)",
+    "name": "SP PASSION PRO DIGITAL PANEL BLACK FOR WHITE BIKE SP Side Panel",
     "qty": 2,
     "mrp": 650,
     "part": "SP"
   },
   {
     "code": "SP-0970-A",
-    "name": "SP-H PASSION PRO 2016 PANEL S.RED FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP H PASSION PRO 2016 PANEL S RED FOR BLACK BIKE SP Side Panel",
     "qty": 3,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0970-B",
-    "name": "SP-H PASSION PRO 2016 PANEL SKY BLUE FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP H PASSION PRO 2016 PANEL SKY BLUE FOR BLACK BIKE SP Side Panel",
     "qty": 3,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0970-C",
-    "name": "SP-H PASSION PRO 2016 PANEL BLACK FOR S.RED BIKE (SP :- Side Panel)",
+    "name": "SP H PASSION PRO 2016 PANEL BLACK FOR S RED BIKE SP Side Panel",
     "qty": 2,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0970-D",
-    "name": "SP-H PASSION PRO 2016 PANEL H-GRAY FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP H PASSION PRO 2016 PANEL H GRAY FOR BLACK BIKE SP Side Panel",
     "qty": 2,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0970-E",
-    "name": "SP-H PASSION PRO 2016 PANEL BLACK FOR SILVER BIKE (SP :- Side Panel)",
+    "name": "SP H PASSION PRO 2016 PANEL BLACK FOR SILVER BIKE SP Side Panel",
     "qty": 2,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0980-A",
-    "name": "SP-PASSION X PRO PANEL SKY BLUE FOR BLACK BIKE (SP :- Side Panel)",
+    "name": "SP PASSION X PRO PANEL SKY BLUE FOR BLACK BIKE SP Side Panel",
     "qty": 2,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0980-F",
-    "name": "SP-PASSION X PRO PANEL BLACK FOR SILVER (SP :- Side Panel)",
+    "name": "SP PASSION X PRO PANEL BLACK FOR SILVER SP Side Panel",
     "qty": 2,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0980-G",
-    "name": "SP-PASSION X PRO PANEL BLACK FOR BLUE (SP :- Side Panel)",
+    "name": "SP PASSION X PRO PANEL BLACK FOR BLUE SP Side Panel",
     "qty": 2,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-0980-H",
-    "name": "SP-PASSION X PRO PANEL BLACK FOR GREEN BIKE (SP :- Side Panel)",
+    "name": "SP PASSION X PRO PANEL BLACK FOR GREEN BIKE SP Side Panel",
     "qty": 2,
     "mrp": 1000,
     "part": "SP"
   },
   {
     "code": "SP-1023",
-    "name": "SP-HF DELUXE ECO GREEN (SP :- Side Panel)",
+    "name": "SP HF DELUXE ECO GREEN SP Side Panel",
     "qty": 3,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-1024",
-    "name": "SP-HF DELUXE (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BK BLUE SP Side Panel",
     "qty": 3,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-1025",
-    "name": "SP-HF DELUXE (BK-RED) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BK RED SP Side Panel",
     "qty": 3,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-1026",
-    "name": "SP-HF DELUXE RED (SP :- Side Panel)",
+    "name": "SP HF DELUXE RED SP Side Panel",
     "qty": 3,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-1027",
-    "name": "SP-HF DELUXE WINE RED (SP :- Side Panel)",
+    "name": "SP HF DELUXE WINE RED SP Side Panel",
     "qty": 3,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-1028",
-    "name": "SP-HF DELUXE SILVER (SP :- Side Panel)",
+    "name": "SP HF DELUXE SILVER SP Side Panel",
     "qty": 3,
     "mrp": 530,
     "part": "SP"
   },
   {
     "code": "SP-1028-A",
-    "name": "SP-HF DELUXE 2015 (BK-PURPLE) (SP :- Side Panel)",
+    "name": "SP HF DELUXE 2015 BK PURPLE SP Side Panel",
     "qty": 2,
     "mrp": 600,
     "part": "SP"
   },
   {
     "code": "SP-1028-B",
-    "name": "SP-HF DELUXE 2015 (BK-RED) (SP :- Side Panel)",
+    "name": "SP HF DELUXE 2015 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 600,
     "part": "SP"
   },
   {
     "code": "SP-1028-C",
-    "name": "SP-HF DELUXE 2015 (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP HF DELUXE 2015 BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 600,
     "part": "SP"
   },
   {
     "code": "SP-1028-D",
-    "name": "SP-HF DELUXE 2015 RED (SP :- Side Panel)",
+    "name": "SP HF DELUXE 2015 RED SP Side Panel",
     "qty": 2,
     "mrp": 600,
     "part": "SP"
   },
   {
     "code": "SP-1028-E",
-    "name": "SP-HF DELUXE 2015 (SILVER-RED) (SP :- Side Panel)",
+    "name": "SP HF DELUXE 2015 SILVER RED SP Side Panel",
     "qty": 2,
     "mrp": 600,
     "part": "SP"
   },
   {
     "code": "SP-1028-E-1",
-    "name": "SP-HF DELUXE 2015 ECO-GREEN (SP :- Side Panel)",
+    "name": "SP HF DELUXE 2015 ECO GREEN SP Side Panel",
     "qty": 2,
     "mrp": 600,
     "part": "SP"
   },
   {
     "code": "SP-1028-E-2",
-    "name": "SP-HF DELUXE 2015 W.RED (SP :- Side Panel)",
+    "name": "SP HF DELUXE 2015 W RED SP Side Panel",
     "qty": 3,
     "mrp": 600,
     "part": "SP"
   },
   {
     "code": "SP-1028-F",
-    "name": "SP-HF DELUXE BS-4 (BK-RED) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 4 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 620,
     "part": "SP"
   },
   {
     "code": "SP-1028-G",
-    "name": "SP-HF DELUXE BS-4 (BK-PURPLE) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 4 BK PURPLE SP Side Panel",
     "qty": 2,
     "mrp": 620,
     "part": "SP"
   },
   {
     "code": "SP-1028-H",
-    "name": "SP-HF DELUXE BS-4 (BK-GRAY) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 4 BK GRAY SP Side Panel",
     "qty": 2,
     "mrp": 620,
     "part": "SP"
   },
   {
     "code": "SP-1028-I",
-    "name": "SP-HF DELUXE BS-4 RED (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 4 RED SP Side Panel",
     "qty": 2,
     "mrp": 620,
     "part": "SP"
   },
   {
     "code": "SP-1028-J",
-    "name": "SP-HF DELUXE BS-4 (GRAY-GREEN) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 4 GRAY GREEN SP Side Panel",
     "qty": 2,
     "mrp": 620,
     "part": "SP"
   },
   {
     "code": "SP-1028-K",
-    "name": "SP-HF DELUXE BS-6 (BK-RED) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 6 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 640,
     "part": "SP"
   },
   {
     "code": "SP-1028-M",
-    "name": "SP-HF DELUXE BS-6 (BK-GEAY) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 6 BK GEAY SP Side Panel",
     "qty": 2,
     "mrp": 640,
     "part": "SP"
   },
   {
     "code": "SP-1028-N",
-    "name": "SP-HF DELUXE BS-6 RED (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 6 RED SP Side Panel",
     "qty": 2,
     "mrp": 640,
     "part": "SP"
   },
   {
     "code": "SP-1028-P",
-    "name": "SP-HF DELUXE BS-6 BLUE (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 6 BLUE SP Side Panel",
     "qty": 2,
     "mrp": 640,
     "part": "SP"
   },
   {
     "code": "SP-1028-P-1",
-    "name": "SP-HF DELUXE BS-6 (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP HF DELUXE BS 6 BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 640,
     "part": "SP"
   },
   {
     "code": "SP-1042-B",
-    "name": "SP-SHINE T-3 (BK-GREY) (SP :- Side Panel)",
+    "name": "SP SHINE T 3 BK GREY SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1042-C",
-    "name": "SP-SHINE T-3 (BK-RED) (SP :- Side Panel)",
+    "name": "SP SHINE T 3 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1042-D",
-    "name": "SP-SHINE T-3 GREY (SP :- Side Panel)",
+    "name": "SP SHINE T 3 GREY SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1042-E",
-    "name": "SP-SHINE T-3 S.RED (SP :- Side Panel)",
+    "name": "SP SHINE T 3 S RED SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1042-E-2",
-    "name": "SP-SHINE T-3 BLUE (SP :- Side Panel)",
+    "name": "SP SHINE T 3 BLUE SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1042-E-3",
-    "name": "SP-SHINE T-3 (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP SHINE T 3 BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1038",
-    "name": "SP-CB SHINE T-4 & T-5 (BK-RED) (SP :- Side Panel)",
+    "name": "SP CB SHINE T 4 T 5 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1040-A",
-    "name": "SP-CB SHINE T-4 & T-5 SILVER (SP :- Side Panel)",
+    "name": "SP CB SHINE T 4 T 5 SILVER SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1042-F",
-    "name": "SP-CB SHINE T-6 (BK-RED) (SP :- Side Panel)",
+    "name": "SP CB SHINE T 6 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 1050,
     "part": "SP"
   },
   {
     "code": "SP-1042-H",
-    "name": "SP-CB SHINE T-6 S.RED (SP :- Side Panel)",
+    "name": "SP CB SHINE T 6 S RED SP Side Panel",
     "qty": 2,
     "mrp": 1050,
     "part": "SP"
   },
   {
     "code": "SP-1042-K",
-    "name": "SP-CB SHINE T-6 W.RED (SP :- Side Panel)",
+    "name": "SP CB SHINE T 6 W RED SP Side Panel",
     "qty": 2,
     "mrp": 1050,
     "part": "SP"
   },
   {
     "code": "SP-1037-D",
-    "name": "SP-CB SHINE BS-6 (BK-RED) (SP :- Side Panel)",
+    "name": "SP CB SHINE BS 6 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 1360,
     "part": "SP"
   },
   {
     "code": "SP-1037-E",
-    "name": "SP-CB SHINE BS-6 GREY (SP :- Side Panel)",
+    "name": "SP CB SHINE BS 6 GREY SP Side Panel",
     "qty": 2,
     "mrp": 1360,
     "part": "SP"
   },
   {
     "code": "SP-1037-F",
-    "name": "SP-CB SHINE BS-6 RED (SP :- Side Panel)",
+    "name": "SP CB SHINE BS 6 RED SP Side Panel",
     "qty": 2,
     "mrp": 1360,
     "part": "SP"
   },
   {
     "code": "SP-1081",
-    "name": "SP-DISCOVER 125CC/150CC 3D (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP DISCOVER 125CC 150CC 3D BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-1082",
-    "name": "SP-DISCOVER 125CC/150CC 3D (BK-RED) (SP :- Side Panel)",
+    "name": "SP DISCOVER 125CC 150CC 3D BK RED SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-1083",
-    "name": "SP-DISCOVER 125CC/150CC 3D (BK-PURPLE) (SP :- Side Panel)",
+    "name": "SP DISCOVER 125CC 150CC 3D BK PURPLE SP Side Panel",
     "qty": 2,
     "mrp": 685,
     "part": "SP"
   },
   {
     "code": "SP-1084-C",
-    "name": "SP-DISCOVER 100 M (BK-RED) (SP :- Side Panel)",
+    "name": "SP DISCOVER 100 M BK RED SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1084-D",
-    "name": "SP-DISCOVER 100 M (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP DISCOVER 100 M BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1084-E",
-    "name": "SP-DISCOVER 100 M (BK-GREEN) (SP :- Side Panel)",
+    "name": "SP DISCOVER 100 M BK GREEN SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1084-F",
-    "name": "SP-DISCOVER 100 M RED (SP :- Side Panel)",
+    "name": "SP DISCOVER 100 M RED SP Side Panel",
     "qty": 2,
     "mrp": 850,
     "part": "SP"
   },
   {
     "code": "SP-1086",
-    "name": "SP-PLATINA MATT FOR BLACK (SP :- Side Panel)",
+    "name": "SP PLATINA MATT FOR BLACK SP Side Panel",
     "qty": 2,
     "mrp": 690,
     "part": "SP"
   },
   {
     "code": "SP-1088",
-    "name": "SP-PLATINA FOR RED (SP :- Side Panel)",
+    "name": "SP PLATINA FOR RED SP Side Panel",
     "qty": 2,
     "mrp": 690,
     "part": "SP"
   },
   {
     "code": "SP-1089",
-    "name": "SP-PLATINA FOR SILVER (SP :- Side Panel)",
+    "name": "SP PLATINA FOR SILVER SP Side Panel",
     "qty": 2,
     "mrp": 690,
     "part": "SP"
   },
   {
     "code": "SP-1090",
-    "name": "SP-PLATINA FOR BLUE (SP :- Side Panel)",
+    "name": "SP PLATINA FOR BLUE SP Side Panel",
     "qty": 2,
     "mrp": 690,
     "part": "SP"
   },
   {
     "code": "SP-1091",
-    "name": "SP-PLATINA FOR GREY (SP :- Side Panel)",
+    "name": "SP PLATINA FOR GREY SP Side Panel",
     "qty": 2,
     "mrp": 690,
     "part": "SP"
   },
   {
     "code": "SP-1093",
-    "name": "SP-PLATINA 125CC (BK-RED) (SP :- Side Panel)",
+    "name": "SP PLATINA 125CC BK RED SP Side Panel",
     "qty": 2,
     "mrp": 740,
     "part": "SP"
   },
   {
     "code": "SP-1094",
-    "name": "SP-PLATINA 125CC (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP PLATINA 125CC BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 740,
     "part": "SP"
   },
   {
     "code": "SP-1095",
-    "name": "SP-PLATINA 125CC RED (SP :- Side Panel)",
+    "name": "SP PLATINA 125CC RED SP Side Panel",
     "qty": 2,
     "mrp": 740,
     "part": "SP"
   },
   {
     "code": "SP-1096",
-    "name": "SP-PLATINA 125CC SILVER (SP :- Side Panel)",
+    "name": "SP PLATINA 125CC SILVER SP Side Panel",
     "qty": 2,
     "mrp": 740,
     "part": "SP"
   },
   {
     "code": "SP-1097",
-    "name": "SP-PLATINA 125CC BLUE (SP :- Side Panel)",
+    "name": "SP PLATINA 125CC BLUE SP Side Panel",
     "qty": 2,
     "mrp": 740,
     "part": "SP"
   },
   {
     "code": "SP-1097-A",
-    "name": "SP-PLATINA ES (BK-RED) (SP :- Side Panel)",
+    "name": "SP PLATINA ES BK RED SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1097-B",
-    "name": "SP-PLATINA ES (BK-GREY) (SP :- Side Panel)",
+    "name": "SP PLATINA ES BK GREY SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1097-C",
-    "name": "SP-PLATINA ES RED (SP :- Side Panel)",
+    "name": "SP PLATINA ES RED SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1097-D",
-    "name": "SP-PLATINA ES BLUE (SP :- Side Panel)",
+    "name": "SP PLATINA ES BLUE SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1097-G",
-    "name": "SP-PLATINA LED (BK-RED) (SP :- Side Panel)",
+    "name": "SP PLATINA LED BK RED SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1097-H",
-    "name": "SP-PLATINA LED RED (SP :- Side Panel)",
+    "name": "SP PLATINA LED RED SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1097-H-1",
-    "name": "SP-PLATINA LED DARK RED (SP :- Side Panel)",
+    "name": "SP PLATINA LED DARK RED SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1097-H-2",
-    "name": "SP-PLATINA LED (BK-GREY) (SP :- Side Panel)",
+    "name": "SP PLATINA LED BK GREY SP Side Panel",
     "qty": 2,
     "mrp": 790,
     "part": "SP"
   },
   {
     "code": "SP-1098",
-    "name": "SP-CT-100 (BK-RED) (SP :- Side Panel)",
+    "name": "SP CT 100 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 660,
     "part": "SP"
   },
   {
     "code": "SP-1099",
-    "name": "SP-CT-100 (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP CT 100 BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 660,
     "part": "SP"
   },
   {
     "code": "SP-1100",
-    "name": "SP-CT-100 (BK-GREY) (SP :- Side Panel)",
+    "name": "SP CT 100 BK GREY SP Side Panel",
     "qty": 2,
     "mrp": 660,
     "part": "SP"
   },
   {
     "code": "SP-1101",
-    "name": "SP-CT-100 RED (SP :- Side Panel)",
+    "name": "SP CT 100 RED SP Side Panel",
     "qty": 2,
     "mrp": 660,
     "part": "SP"
   },
   {
     "code": "SP-1102",
-    "name": "SP-CT-100 HEENA GREEN (SP :- Side Panel)",
+    "name": "SP CT 100 HEENA GREEN SP Side Panel",
     "qty": 2,
     "mrp": 660,
     "part": "SP"
   },
   {
     "code": "SP-1103",
-    "name": "SP-CT-100 PURPLE (SP :- Side Panel)",
+    "name": "SP CT 100 PURPLE SP Side Panel",
     "qty": 2,
     "mrp": 660,
     "part": "SP"
   },
   {
     "code": "SP-1104",
-    "name": "SP-CT-100 BLUE (SP :- Side Panel)",
+    "name": "SP CT 100 BLUE SP Side Panel",
     "qty": 2,
     "mrp": 660,
     "part": "SP"
   },
   {
     "code": "SP-1104-A",
-    "name": "SP-CT-100 N/M 2015 (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP CT 100 N M 2015 BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1104-B",
-    "name": "SP-CT-100 N/M 2015 (BK-RED) (SP :- Side Panel)",
+    "name": "SP CT 100 N M 2015 BK RED SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1104-C",
-    "name": "SP-CT-100 N/M 2015 RED (SP :- Side Panel)",
+    "name": "SP CT 100 N M 2015 RED SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1104-D",
-    "name": "SP-CT-100 N/M 2015 BLUE (SP :- Side Panel)",
+    "name": "SP CT 100 N M 2015 BLUE SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1115",
-    "name": "SP-BOXER CT BLACK (SP :- Side Panel)",
+    "name": "SP BOXER CT BLACK SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1116",
-    "name": "SP-BOXER CT WINE RED (SP :- Side Panel)",
+    "name": "SP BOXER CT WINE RED SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1116-A",
-    "name": "SP-BOXER CT SILVER (SP :- Side Panel)",
+    "name": "SP BOXER CT SILVER SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1116-B",
-    "name": "SP-BOXER CT RED (SP :- Side Panel)",
+    "name": "SP BOXER CT RED SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1116-C",
-    "name": "SP-BOXER CT BLUE (SP :- Side Panel)",
+    "name": "SP BOXER CT BLUE SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1116-D",
-    "name": "SP-BOXER CT GREEN (SP :- Side Panel)",
+    "name": "SP BOXER CT GREEN SP Side Panel",
     "qty": 2,
     "mrp": 680,
     "part": "SP"
   },
   {
     "code": "SP-1166-A",
-    "name": "SP-STAR CITY CVTI 110CC N/M (BK-RED) (SP :- Side Panel)",
+    "name": "SP STAR CITY CVTI 110CC N M BK RED SP Side Panel",
     "qty": 2,
     "mrp": 750,
     "part": "SP"
   },
   {
     "code": "SP-1166-B",
-    "name": "SP-STAR CITY CVTI 110CC N/M (BK-YELLOW) (SP :- Side Panel)",
+    "name": "SP STAR CITY CVTI 110CC N M BK YELLOW SP Side Panel",
     "qty": 2,
     "mrp": 750,
     "part": "SP"
   },
   {
     "code": "SP-1166-C",
-    "name": "SP-STAR CITY CVTI 110CC N/M (BK-SILVER) (SP :- Side Panel)",
+    "name": "SP STAR CITY CVTI 110CC N M BK SILVER SP Side Panel",
     "qty": 2,
     "mrp": 750,
     "part": "SP"
   },
   {
     "code": "SP-1166-D",
-    "name": "SP-STAR CITY CVTI 110CC N/M RED (SP :- Side Panel)",
+    "name": "SP STAR CITY CVTI 110CC N M RED SP Side Panel",
     "qty": 2,
     "mrp": 750,
     "part": "SP"
   },
   {
     "code": "SP-1166-J",
-    "name": "SP-STAR CITY CVTI 110CC N/M (BK-BLUE) (SP :- Side Panel)",
+    "name": "SP STAR CITY CVTI 110CC N M BK BLUE SP Side Panel",
     "qty": 2,
     "mrp": 750,
     "part": "SP"
   },
   {
     "code": "SP-1166-K",
-    "name": "SP-STAR CITY CVTI 110CC N/M (BK-GREEN) (SP :- Side Panel)",
+    "name": "SP STAR CITY CVTI 110CC N M BK GREEN SP Side Panel",
     "qty": 2,
     "mrp": 750,
     "part": "SP"
   },
   {
     "code": "ST-1215",
-    "name": "TP-SPLENDOR BLACK (TP :- Tail Panel)",
+    "name": "TP SPLENDOR BLACK TP Tail Panel",
     "qty": 3,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1215-A",
-    "name": "TP-SPLENDOR (JOINT) BLACK (TP :- Tail Panel)",
+    "name": "TP SPLENDOR JOINT BLACK TP Tail Panel",
     "qty": 3,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1216",
-    "name": "TP-SPLENDOR MATELLIC GREY (TP :- Tail Panel)",
+    "name": "TP SPLENDOR MATELLIC GREY TP Tail Panel",
     "qty": 3,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1217",
-    "name": "TP-SPLENDOR RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR RED TP Tail Panel",
     "qty": 3,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1218",
-    "name": "TP-SPLENDOR SILVER (TP :- Tail Panel)",
+    "name": "TP SPLENDOR SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1219",
-    "name": "TP-SPLENDOR T.BLUE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR T BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1220",
-    "name": "TP-SPLENDOR METALLIC BLUE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR METALLIC BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1220-A",
-    "name": "TP-SPLENDOR GREEN (TP :- Tail Panel)",
+    "name": "TP SPLENDOR GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 435,
     "part": "TP"
   },
   {
     "code": "ST-1221",
-    "name": "TP-SPLENDOR PLUS (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1221-A",
-    "name": "TP-SPLENDOR PLUS (BK-RED) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1222",
-    "name": "TP-SPLENDOR PLUS (BK-ORANGE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BK ORANGE TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1223",
-    "name": "TP-SPLENDOR PLUS (BK-YELLOW) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BK YELLOW TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1224",
-    "name": "TP-SPLENDOR PLUS (RED-GOLDEN) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS RED GOLDEN TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1225",
-    "name": "TP-SPLENDOR PLUS (SILVER-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS SILVER BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1226",
-    "name": "TP-SPLENDOR PLUS (SILVER-RED) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS SILVER RED TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1227",
-    "name": "TP-SPLENDOR PLUS T.BLUE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS T BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1228",
-    "name": "TP-SPLENDOR PLUS M.BLUE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS M BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1228-A",
-    "name": "TP-SPLENDOR PLUS GREEN (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS GREEN TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1228-B",
-    "name": "TP-SPLENDOR PLUS (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BK PURPLE TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1229",
-    "name": "TP-SPLENDOR PLUS A/W (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS A W BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 470,
     "part": "TP"
   },
   {
     "code": "ST-1230",
-    "name": "TP-SPLENDOR PLUS A/W RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS A W RED TP Tail Panel",
     "qty": 3,
     "mrp": 470,
     "part": "TP"
   },
   {
     "code": "ST-1231",
-    "name": "TP-SPLENDOR PLUS A/W SILVER (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS A W SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 470,
     "part": "TP"
   },
   {
     "code": "ST-1232",
-    "name": "TP-SPLENDOR PLUS A/W (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS A W BK PURPLE TP Tail Panel",
     "qty": 3,
     "mrp": 470,
     "part": "TP"
   },
   {
     "code": "ST-1233",
-    "name": "TP-SPLENDOR PLUS A/W (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS A W BK GREY TP Tail Panel",
     "qty": 3,
     "mrp": 470,
     "part": "TP"
   },
   {
     "code": "ST-1233-A",
-    "name": "TP-SPLENDOR (SMALL) BLACK (TP :- Tail Panel)",
+    "name": "TP SPLENDOR SMALL BLACK TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1233-A-1",
-    "name": "TP-SPLENDOR (SMALL) SILVER (TP :- Tail Panel)",
+    "name": "TP SPLENDOR SMALL SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1233-A-2",
-    "name": "TP-SPLENDOR (SMALL) RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR SMALL RED TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1233-B",
-    "name": "TP-SPLENDOR (SMALL) (JOINT) BLACK (TP :- Tail Panel)",
+    "name": "TP SPLENDOR SMALL JOINT BLACK TP Tail Panel",
     "qty": 3,
     "mrp": 460,
     "part": "TP"
   },
   {
     "code": "ST-1234",
-    "name": "TP-SPLENDOR PLUS H. SMALL (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS H SMALL BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 505,
     "part": "TP"
   },
   {
     "code": "ST-1235",
-    "name": "TP-SPLENDOR PLUS H. SMALL (BK-SILVER) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS H SMALL BK SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 505,
     "part": "TP"
   },
   {
     "code": "ST-1236",
-    "name": "TP-SPLENDOR PLUS H. SMALL (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS H SMALL BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 505,
     "part": "TP"
   },
   {
     "code": "ST-1237",
-    "name": "TP-SPLENDOR PLUS H. SMALL RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS H SMALL RED TP Tail Panel",
     "qty": 2,
     "mrp": 505,
     "part": "TP"
   },
   {
     "code": "ST-1239",
-    "name": "TP-SPLENDOR PLUS H. SMALL SILVER (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS H SMALL SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 505,
     "part": "TP"
   },
   {
     "code": "ST-1240",
-    "name": "TP-SPLENDOR PRO H/H (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H H BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 495,
     "part": "TP"
   },
   {
     "code": "ST-1241",
-    "name": "TP-SPLENDOR PRO H/H (BK-RED) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H H BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 495,
     "part": "TP"
   },
   {
     "code": "ST-1242",
-    "name": "TP-SPLENDOR PRO H/H (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H H BK GREY TP Tail Panel",
     "qty": 3,
     "mrp": 495,
     "part": "TP"
   },
   {
     "code": "ST-1243",
-    "name": "TP-SPLENDOR PRO H/H RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H H RED TP Tail Panel",
     "qty": 3,
     "mrp": 495,
     "part": "TP"
   },
   {
     "code": "ST-1245",
-    "name": "TP-SPLENDOR PRO H/H SILVER (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H H SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 495,
     "part": "TP"
   },
   {
     "code": "ST-1246",
-    "name": "TP-SPLENDOR PRO H/H GREY (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H H GREY TP Tail Panel",
     "qty": 3,
     "mrp": 495,
     "part": "TP"
   },
   {
     "code": "ST-1247",
-    "name": "TP-SPLENDOR PRO H/H T.BLUE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H H T BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 495,
     "part": "TP"
   },
   {
     "code": "ST-1248",
-    "name": "TP-SPLENDOR PRO H. SMALL (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1249",
-    "name": "TP-SPLENDOR PRO H. SMALL (BK-RED) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1250",
-    "name": "TP-SPLENDOR PRO H. SMALL (BK-SILVER) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL BK SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1251",
-    "name": "TP-SPLENDOR PRO H. SMALL RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL RED TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1252",
-    "name": "TP-SPLENDOR PRO H. SMALL W.RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL W RED TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1253",
-    "name": "TP-SPLENDOR PRO H. SMALL SILVER (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1254",
-    "name": "TP-SPLENDOR PRO H. SMALL GREY (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL GREY TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1255",
-    "name": "TP-SPLENDOR PRO H. SMALL T.BLUE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PRO H SMALL T BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 515,
     "part": "TP"
   },
   {
     "code": "ST-1239-A",
-    "name": "TP-SPLENDOR BS-4 (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR BS 4 BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1239-B",
-    "name": "TP-SPLENDOR BS-4 (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR BS 4 BK GREY TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1239-C",
-    "name": "TP-SPLENDOR BS-4 SILVER (TP :- Tail Panel)",
+    "name": "TP SPLENDOR BS 4 SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1239-E",
-    "name": "TP-SPLENDOR BS-4 RED (TP :- Tail Panel)",
+    "name": "TP SPLENDOR BS 4 RED TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1239-F",
-    "name": "TP-SPLENDOR BS-4 (GREY-GREEN) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR BS 4 GREY GREEN TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1239-D",
-    "name": "TP-SPLENDOR BS-4 (BK-GOLDEN) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR BS 4 BK GOLDEN TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1255-A",
-    "name": "TP-SPLENDOR PLUS BS-6 (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BS 6 BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 550,
     "part": "TP"
   },
   {
     "code": "ST-1255-B",
-    "name": "TP-SPLENDOR PLUS BS-6 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BS 6 BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 550,
     "part": "TP"
   },
   {
     "code": "ST-1255-C",
-    "name": "TP-SPLENDOR PLUS BS-6 (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BS 6 BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 550,
     "part": "TP"
   },
   {
     "code": "ST-1255-D",
-    "name": "TP-SPLENDOR PLUS BS-6 (GREY-GREEN) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BS 6 GREY GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 550,
     "part": "TP"
   },
   {
     "code": "ST-1255-E",
-    "name": "TP-SPLENDOR PLUS BS-6 BLACK (TP :- Tail Panel)",
+    "name": "TP SPLENDOR PLUS BS 6 BLACK TP Tail Panel",
     "qty": 2,
     "mrp": 550,
     "part": "TP"
   },
   {
     "code": "ST-1256",
-    "name": "TP-PASSION O/M (BK-GOLDEN) (TP :- Tail Panel)",
+    "name": "TP PASSION O M BK GOLDEN TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1257",
-    "name": "TP-PASSION O/M (BK-PINK) (TP :- Tail Panel)",
+    "name": "TP PASSION O M BK PINK TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1258",
-    "name": "TP-PASSION O/M RED (TP :- Tail Panel)",
+    "name": "TP PASSION O M RED TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1259",
-    "name": "TP-PASSION O/M M.BLUE (TP :- Tail Panel)",
+    "name": "TP PASSION O M M BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1260",
-    "name": "TP-PASSION O/M T.BLUE (TP :- Tail Panel)",
+    "name": "TP PASSION O M T BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1261",
-    "name": "TP-PASSION PLUS (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1262",
-    "name": "TP-PASSION PLUS (BK-RED) (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1263",
-    "name": "TP-PASSION PLUS (BK-ORANGE) (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS BK ORANGE TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1264",
-    "name": "TP-PASSION PLUS W.RED (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS W RED TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1265",
-    "name": "TP-PASSION PLUS (SILVER-BLUE) (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS SILVER BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1266",
-    "name": "TP-PASSION PLUS (SILVER-RED) (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS SILVER RED TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1267",
-    "name": "TP-PASSION PLUS T.BLUE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS T BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1268",
-    "name": "TP-PASSION PLUS RED (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS RED TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1269",
-    "name": "TP-PASSION PLUS TURQUISE BLUE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS TURQUISE BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1270",
-    "name": "TP-PASSION PLUS YELLOW (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS YELLOW TP Tail Panel",
     "qty": 3,
     "mrp": 690,
     "part": "TP"
   },
   {
     "code": "ST-1271",
-    "name": "TP-PASSION PLUS A/W TAIL S.RED FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS A W TAIL S RED FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1272",
-    "name": "TP-PASSION PLUS A/W TAIL SKY BLUE FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS A W TAIL SKY BLUE FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1273",
-    "name": "TP-PASSION PLUS A/W TAIL BLACK FOR SILVER BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS A W TAIL BLACK FOR SILVER BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1274",
-    "name": "TP-PASSION PLUS A/W TAIL BLACK FOR W.RED BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS A W TAIL BLACK FOR W RED BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1275",
-    "name": "TP-PASSION PLUS A/W TAIL BLACK FOR BLUE BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS A W TAIL BLACK FOR BLUE BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1276",
-    "name": "TP-PASSION PLUS A/W TAIL BLACK FOR S.RED BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PLUS A W TAIL BLACK FOR S RED BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1277",
-    "name": "TP-PASSION PRO TAIL S.RED FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PRO TAIL S RED FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1278",
-    "name": "TP-PASSION PRO TAIL SKY BLUE FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PRO TAIL SKY BLUE FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1279",
-    "name": "TP-PASSION PRO TAIL BLACK FOR S.RED BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PRO TAIL BLACK FOR S RED BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1279-A",
-    "name": "TP-PASSION PRO TAIL BLACK FOR PARROT GREEN BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PRO TAIL BLACK FOR PARROT GREEN BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1280",
-    "name": "TP-PASSION PRO TAIL BLACK FOR SILVER BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PRO TAIL BLACK FOR SILVER BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 695,
     "part": "TP"
   },
   {
     "code": "ST-1281",
-    "name": "TP-PASSION PRO DIGITAL TAIL S.RED FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PRO DIGITAL TAIL S RED FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 785,
     "part": "TP"
   },
   {
     "code": "ST-1284",
-    "name": "TP-PASSION PRO DIGITAL TAIL BLACK FOR S.RED BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION PRO DIGITAL TAIL BLACK FOR S RED BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 785,
     "part": "TP"
   },
   {
     "code": "ST-1285-A",
-    "name": "TP-PASSION PRO DIGITAL TAIL (BK-SILVER BIKE) (TP :- Tail Panel)",
+    "name": "TP PASSION PRO DIGITAL TAIL BK SILVER BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 785,
     "part": "TP"
   },
   {
     "code": "ST-1280-A",
-    "name": "TP-HERO PASSION PRO 2016 TAIL S.RED FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP HERO PASSION PRO 2016 TAIL S RED FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 905,
     "part": "TP"
   },
   {
     "code": "ST-1280-B",
-    "name": "TP-HERO PASSION PRO 2016 TAIL GRAY FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP HERO PASSION PRO 2016 TAIL GRAY FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 905,
     "part": "TP"
   },
   {
     "code": "ST-1280-C",
-    "name": "TP-HERO PASSION PRO 2016 TAIL SKY BLUE FOR BLACK BIKE (TP :- Tail Panel)",
+    "name": "TP HERO PASSION PRO 2016 TAIL SKY BLUE FOR BLACK BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 905,
     "part": "TP"
   },
   {
     "code": "ST-1280-D",
-    "name": "TP-HERO PASSION PRO 2016 TAIL BLACK FOR S.RED BIKE (TP :- Tail Panel)",
+    "name": "TP HERO PASSION PRO 2016 TAIL BLACK FOR S RED BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 905,
     "part": "TP"
   },
   {
     "code": "ST-1280-E",
-    "name": "TP-HERO PASSION PRO 2016 TAIL BLACK FOR SILVER BIKE (TP :- Tail Panel)",
+    "name": "TP HERO PASSION PRO 2016 TAIL BLACK FOR SILVER BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 905,
     "part": "TP"
   },
   {
     "code": "ST-1286-F",
-    "name": "TP-PASSION X PRO TAIL BLACK FOR SILVER BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION X PRO TAIL BLACK FOR SILVER BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 905,
     "part": "TP"
   },
   {
     "code": "ST-1286-G",
-    "name": "TP-PASSION X PRO TAIL BLACK FOR BLUE BIKE (TP :- Tail Panel)",
+    "name": "TP PASSION X PRO TAIL BLACK FOR BLUE BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 905,
     "part": "TP"
   },
   {
     "code": "ST-1306",
-    "name": "TP-CD DAWN O/M BLACK (TP :- Tail Panel)",
+    "name": "TP CD DAWN O M BLACK TP Tail Panel",
     "qty": 3,
     "mrp": 370,
     "part": "TP"
   },
   {
     "code": "ST-1307",
-    "name": "TP-CD DAWN O/M RED (TP :- Tail Panel)",
+    "name": "TP CD DAWN O M RED TP Tail Panel",
     "qty": 3,
     "mrp": 370,
     "part": "TP"
   },
   {
     "code": "ST-1308",
-    "name": "TP-CD DAWN O/M W.RED (TP :- Tail Panel)",
+    "name": "TP CD DAWN O M W RED TP Tail Panel",
     "qty": 3,
     "mrp": 370,
     "part": "TP"
   },
   {
     "code": "ST-1309",
-    "name": "TP-CD DAWN O/M SILVER (TP :- Tail Panel)",
+    "name": "TP CD DAWN O M SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 370,
     "part": "TP"
   },
   {
     "code": "ST-1310",
-    "name": "TP-CD DAWN O/M T.BLUE (TP :- Tail Panel)",
+    "name": "TP CD DAWN O M T BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 370,
     "part": "TP"
   },
   {
     "code": "ST-1311",
-    "name": "TP-CD DLX A/W T-2 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CD DLX A W T 2 BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1312",
-    "name": "TP-CD DLX A/W T-2 (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP CD DLX A W T 2 BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1313",
-    "name": "TP-CD DLX A/W T-2 (RED-ORANGE) (TP :- Tail Panel)",
+    "name": "TP CD DLX A W T 2 RED ORANGE TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1314",
-    "name": "TP-CD DLX A/W T-2 W.RED (TP :- Tail Panel)",
+    "name": "TP CD DLX A W T 2 W RED TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1315",
-    "name": "TP-CD DLX A/W T-2 SILVER (TP :- Tail Panel)",
+    "name": "TP CD DLX A W T 2 SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1316",
-    "name": "TP-CD DLX T-4 (SELF START) (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CD DLX T 4 SELF START BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1317",
-    "name": "TP-CD DLX T-4 (SELF START) (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP CD DLX T 4 SELF START BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1318",
-    "name": "TP-CD DLX T-4 (SELF START) (RED-ORANGE) (TP :- Tail Panel)",
+    "name": "TP CD DLX T 4 SELF START RED ORANGE TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1319",
-    "name": "TP-CD DLX T-4 (SELF START) W.RED (TP :- Tail Panel)",
+    "name": "TP CD DLX T 4 SELF START W RED TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1320",
-    "name": "TP-CD DLX T-4 (SELF START) SILVER (TP :- Tail Panel)",
+    "name": "TP CD DLX T 4 SELF START SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1321",
-    "name": "TP-HF DELUXE ECO GREEN (TP :- Tail Panel)",
+    "name": "TP HF DELUXE ECO GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1322",
-    "name": "TP-HF DELUXE (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1323",
-    "name": "TP-HF DELUXE (BK-RED) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1324",
-    "name": "TP-HF DELUXE RED (TP :- Tail Panel)",
+    "name": "TP HF DELUXE RED TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1325",
-    "name": "TP-HF DELUXE W.RED (TP :- Tail Panel)",
+    "name": "TP HF DELUXE W RED TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1326",
-    "name": "TP-HF DELUXE SILVER (TP :- Tail Panel)",
+    "name": "TP HF DELUXE SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1326-A",
-    "name": "TP-HF DELUXE 3D 2015 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE 3D 2015 BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 600,
     "part": "TP"
   },
   {
     "code": "ST-1326-B",
-    "name": "TP-HF DELUXE 3D 2015 (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE 3D 2015 BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 600,
     "part": "TP"
   },
   {
     "code": "ST-1326-C",
-    "name": "TP-HF DELUXE 3D 2015 (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE 3D 2015 BK PURPLE TP Tail Panel",
     "qty": 3,
     "mrp": 600,
     "part": "TP"
   },
   {
     "code": "ST-1326-D",
-    "name": "TP-HF DELUXE 3D 2015 RED (TP :- Tail Panel)",
+    "name": "TP HF DELUXE 3D 2015 RED TP Tail Panel",
     "qty": 3,
     "mrp": 600,
     "part": "TP"
   },
   {
     "code": "ST-1326-E",
-    "name": "TP-HF DELUXE 3D 2015 SILVER (TP :- Tail Panel)",
+    "name": "TP HF DELUXE 3D 2015 SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 600,
     "part": "TP"
   },
   {
     "code": "ST-1326-E-1",
-    "name": "TP-HF DELUXE 3D 2015 ECO GREEN (TP :- Tail Panel)",
+    "name": "TP HF DELUXE 3D 2015 ECO GREEN TP Tail Panel",
     "qty": 3,
     "mrp": 600,
     "part": "TP"
   },
   {
     "code": "ST-1326-E-2",
-    "name": "TP-HF DELUXE 3D 2015 W.RED (TP :- Tail Panel)",
+    "name": "TP HF DELUXE 3D 2015 W RED TP Tail Panel",
     "qty": 3,
     "mrp": 600,
     "part": "TP"
   },
   {
     "code": "ST-1326-F",
-    "name": "TP-HF DELUXE  BS-4 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS 4 BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 620,
     "part": "TP"
   },
   {
     "code": "ST-1326-G",
-    "name": "TP-HF DELUXE  BS-4 (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS 4 BK PURPLE TP Tail Panel",
     "qty": 3,
     "mrp": 620,
     "part": "TP"
   },
   {
     "code": "ST-1326-H",
-    "name": "TP-HF DELUXE  BS-4 (BK-GRAY) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS 4 BK GRAY TP Tail Panel",
     "qty": 3,
     "mrp": 620,
     "part": "TP"
   },
   {
     "code": "ST-1326-I",
-    "name": "TP-HF DELUXE  BS-4 (RED-ORANGE) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS 4 RED ORANGE TP Tail Panel",
     "qty": 3,
     "mrp": 620,
     "part": "TP"
   },
   {
     "code": "ST-1326-J",
-    "name": "TP-HF DELUXE  BS-4 GREY (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS 4 GREY TP Tail Panel",
     "qty": 3,
     "mrp": 620,
     "part": "TP"
   },
   {
     "code": "ST-1320-A",
-    "name": "TP-HF-DELUXE BS6 GREY (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS6 GREY TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1320-B",
-    "name": "TP-HF-DELUXE BS6 (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS6 BK GREY TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1320-C",
-    "name": "TP-HF-DELUXE BS6 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS6 BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1320-D",
-    "name": "TP-HF-DELUXE BS6 (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS6 BK PURPLE TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1320-E",
-    "name": "TP-HF-DELUXE BS6 BLUE (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS6 BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1320-F",
-    "name": "TP-HF DELUXE BS6 (BK-NEXUS BLUE) (TP :- Tail Panel)",
+    "name": "TP HF DELUXE BS6 BK NEXUS BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 530,
     "part": "TP"
   },
   {
     "code": "ST-1375",
-    "name": "TP-SPLENDOR I-SMART TAIL BLACK FOR S.RED BIKE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR I SMART TAIL BLACK FOR S RED BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 865,
     "part": "TP"
   },
   {
     "code": "ST-1376",
-    "name": "TP-SPLENDOR I-SMART TAIL BLACK FOR BLUE BIKE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR I SMART TAIL BLACK FOR BLUE BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 865,
     "part": "TP"
   },
   {
     "code": "ST-1377",
-    "name": "TP-SPLENDOR I-SMART TAIL BLACK FOR GREY BIKE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR I SMART TAIL BLACK FOR GREY BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 865,
     "part": "TP"
   },
   {
     "code": "ST-1378",
-    "name": "TP-SPLENDOR I-SMART TAIL BLACK FOR GREEN BIKE (TP :- Tail Panel)",
+    "name": "TP SPLENDOR I SMART TAIL BLACK FOR GREEN BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 865,
     "part": "TP"
   },
   {
     "code": "ST-1378-A",
-    "name": "TP-SPLENDOR I-SMART (BK-SILVER) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR I SMART BK SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 865,
     "part": "TP"
   },
   {
     "code": "ST-1378-B",
-    "name": "TP-SPLENDOR I-SMART (BK-RED) (TP :- Tail Panel)",
+    "name": "TP SPLENDOR I SMART BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 865,
     "part": "TP"
   },
   {
     "code": "ST-1391",
-    "name": "TP-UNICORN O/M BLACK (TP :- Tail Panel)",
+    "name": "TP UNICORN O M BLACK TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1392",
-    "name": "TP-UNICORN O/M RED (TP :- Tail Panel)",
+    "name": "TP UNICORN O M RED TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1396",
-    "name": "TP-CB UNICORN BLACK (TP :- Tail Panel)",
+    "name": "TP CB UNICORN BLACK TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1397",
-    "name": "TP-CB UNICORN RED (TP :- Tail Panel)",
+    "name": "TP CB UNICORN RED TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1398",
-    "name": "TP-CB UNICORN S.RED (TP :- Tail Panel)",
+    "name": "TP CB UNICORN S RED TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1399",
-    "name": "TP-CB UNICORN SILVER (TP :- Tail Panel)",
+    "name": "TP CB UNICORN SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1400",
-    "name": "TP-CB UNICORN GREY (TP :- Tail Panel)",
+    "name": "TP CB UNICORN GREY TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1414-E",
-    "name": "TP-SHINE T-2 (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP SHINE T 2 BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1414-F",
-    "name": "TP-SHINE T-2 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP SHINE T 2 BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1405",
-    "name": "TP-SHINE T-3 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP SHINE T 3 BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1406",
-    "name": "TP-SHINE T-3 (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP SHINE T 3 BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1407",
-    "name": "TP-SHINE T-3 S.RED (TP :- Tail Panel)",
+    "name": "TP SHINE T 3 S RED TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1408",
-    "name": "TP-SHINE T-3 BLUE (TP :- Tail Panel)",
+    "name": "TP SHINE T 3 BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1409",
-    "name": "TP-SHINE T-3 GREY (TP :- Tail Panel)",
+    "name": "TP SHINE T 3 GREY TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1410",
-    "name": "TP-CB SHINE T-4 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1411",
-    "name": "TP-CB SHINE T-4 (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1412",
-    "name": "TP-CB SHINE T-4 W.RED (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 W RED TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1413",
-    "name": "TP-CB SHINE T-4 BLUE (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1414",
-    "name": "TP-CB SHINE T-4 GREY (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 GREY TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1401",
-    "name": "TP-CB SHINE T-4 & T-5 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 T 5 BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1401-A",
-    "name": "TP-CB SHINE T-4 & T-5 (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 T 5 BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1401-B",
-    "name": "TP-CB SHINE T-5 WHITE (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 5 WHITE TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1402",
-    "name": "TP-CB SHINE T-4 & T-5 W.RED (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 T 5 W RED TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1403",
-    "name": "TP-CB SHINE T-4 & T-5 SILVER (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 T 5 SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1404",
-    "name": "TP-CB SHINE T-4 & T-5 GENY GREY (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 T 5 GENY GREY TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1404-A",
-    "name": "TP-CB SHINE T-4 & T-5 MANSOON GREY (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 4 T 5 MANSOON GREY TP Tail Panel",
     "qty": 2,
     "mrp": 755,
     "part": "TP"
   },
   {
     "code": "ST-1404-B",
-    "name": "TP-CB SHINE T-6 DX (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 6 DX BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 895,
     "part": "TP"
   },
   {
     "code": "ST-1404-C",
-    "name": "TP-CB SHINE T-6 DX RED (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 6 DX RED TP Tail Panel",
     "qty": 2,
     "mrp": 895,
     "part": "TP"
   },
   {
     "code": "ST-1404-D",
-    "name": "TP-CB SHINE T-6 DX W.RED (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 6 DX W RED TP Tail Panel",
     "qty": 2,
     "mrp": 895,
     "part": "TP"
   },
   {
     "code": "ST-1404-E",
-    "name": "TP-CB SHINE T-6 DX GENY GREY (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 6 DX GENY GREY TP Tail Panel",
     "qty": 2,
     "mrp": 895,
     "part": "TP"
   },
   {
     "code": "ST-1404-F",
-    "name": "TP-CB SHINE T-6 DX BLUE (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 6 DX BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 895,
     "part": "TP"
   },
   {
     "code": "ST-1404-H",
-    "name": "TP-CB SHINE T-6 DX S.RED (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 6 DX S RED TP Tail Panel",
     "qty": 2,
     "mrp": 895,
     "part": "TP"
   },
   {
     "code": "ST-1404-I",
-    "name": "TP-CB SHINE T-6 DX BROWN (TP :- Tail Panel)",
+    "name": "TP CB SHINE T 6 DX BROWN TP Tail Panel",
     "qty": 2,
     "mrp": 895,
     "part": "TP"
   },
   {
     "code": "ST-1400-B",
-    "name": "TP-CB SHINE BS-6 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CB SHINE BS 6 BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1400-D",
-    "name": "TP-CB SHINE BS-6 GREY (TP :- Tail Panel)",
+    "name": "TP CB SHINE BS 6 GREY TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1400-E",
-    "name": "TP-CB SHINE BS-6 BLUE (TP :- Tail Panel)",
+    "name": "TP CB SHINE BS 6 BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1400-F",
-    "name": "TP-CB SHINE BS-6 RED (TP :- Tail Panel)",
+    "name": "TP CB SHINE BS 6 RED TP Tail Panel",
     "qty": 2,
     "mrp": 1220,
     "part": "TP"
   },
   {
     "code": "ST-1400-H",
-    "name": "TP-CB SHINE SP MAT GREY (TP :- Tail Panel)",
+    "name": "TP CB SHINE SP MAT GREY TP Tail Panel",
     "qty": 2,
     "mrp": 1170,
     "part": "TP"
   },
   {
     "code": "ST-1400-H-1",
-    "name": "TP-CB SHINE SP GREY (TP :- Tail Panel)",
+    "name": "TP CB SHINE SP GREY TP Tail Panel",
     "qty": 2,
     "mrp": 1170,
     "part": "TP"
   },
   {
     "code": "ST-1400-H-2",
-    "name": "TP-CB SHINE SP BK-RED (TP :- Tail Panel)",
+    "name": "TP CB SHINE SP BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 1170,
     "part": "TP"
   },
   {
     "code": "ST-1400-H-3",
-    "name": "TP-CB SHINE SP BK-YELLOW (TP :- Tail Panel)",
+    "name": "TP CB SHINE SP BK YELLOW TP Tail Panel",
     "qty": 2,
     "mrp": 1170,
     "part": "TP"
   },
   {
     "code": "ST-1421",
-    "name": "TP-DREAM YUGA (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 970,
     "part": "TP"
   },
   {
     "code": "ST-1422",
-    "name": "TP-DREAM YUGA RED (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA RED TP Tail Panel",
     "qty": 2,
     "mrp": 970,
     "part": "TP"
   },
   {
     "code": "ST-1423",
-    "name": "TP-DREAM YUGA SILVER (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 970,
     "part": "TP"
   },
   {
     "code": "ST-1425-A",
-    "name": "TP-DREAM YUGA (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 970,
     "part": "TP"
   },
   {
     "code": "ST-1425-B",
-    "name": "TP-DREAM YUGA S.RED (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA S RED TP Tail Panel",
     "qty": 2,
     "mrp": 970,
     "part": "TP"
   },
   {
     "code": "ST-1425-C",
-    "name": "TP-DREAM YUGA BLUE (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 970,
     "part": "TP"
   },
   {
     "code": "ST-1425-D",
-    "name": "TP-DREAM YUGA (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 970,
     "part": "TP"
   },
   {
     "code": "ST-1421-A",
-    "name": "TP-DREAM YUGA N/G (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA N G BK RED TP Tail Panel",
     "qty": 1,
     "mrp": 1020,
     "part": "TP"
   },
   {
     "code": "ST-1421-B",
-    "name": "TP-DREAM YUGA N/G (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA N G BK BLUE TP Tail Panel",
     "qty": 1,
     "mrp": 1020,
     "part": "TP"
   },
   {
     "code": "ST-1425-E",
-    "name": "TP-DREAM YUGA N/G S.RED (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA N G S RED TP Tail Panel",
     "qty": 1,
     "mrp": 1020,
     "part": "TP"
   },
   {
     "code": "ST-1430-B",
-    "name": "TP-DREAM YUGA BS-6 (GENY-GREY) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BS 6 GENY GREY TP Tail Panel",
     "qty": 1,
     "mrp": 1050,
     "part": "TP"
   },
   {
     "code": "ST-1430-C",
-    "name": "TP-DREAM YUGA BS-6 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BS 6 BK RED TP Tail Panel",
     "qty": 1,
     "mrp": 1050,
     "part": "TP"
   },
   {
     "code": "ST-1430-D",
-    "name": "TP-DREAM YUGA BS-6 (BK-GREEN) (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BS 6 BK GREEN TP Tail Panel",
     "qty": 1,
     "mrp": 1050,
     "part": "TP"
   },
   {
     "code": "ST-1430-E",
-    "name": "TP-DREAM YUGA BS-6 S.RED (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BS 6 S RED TP Tail Panel",
     "qty": 1,
     "mrp": 1050,
     "part": "TP"
   },
   {
     "code": "ST-1430-F",
-    "name": "TP-DREAM YUGA BS-6 BROWN (TP :- Tail Panel)",
+    "name": "TP DREAM YUGA BS 6 BROWN TP Tail Panel",
     "qty": 1,
     "mrp": 1050,
     "part": "TP"
   },
   {
     "code": "ST-1426",
-    "name": "TP-PULSAR DTSI BLACK (TP :- Tail Panel)",
+    "name": "TP PULSAR DTSI BLACK TP Tail Panel",
     "qty": 2,
     "mrp": 720,
     "part": "TP"
   },
   {
     "code": "ST-1427",
-    "name": "TP-PULSAR DTSI RED (TP :- Tail Panel)",
+    "name": "TP PULSAR DTSI RED TP Tail Panel",
     "qty": 2,
     "mrp": 720,
     "part": "TP"
   },
   {
     "code": "ST-1428",
-    "name": "TP-PULSAR DTSI SILVER (TP :- Tail Panel)",
+    "name": "TP PULSAR DTSI SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 720,
     "part": "TP"
   },
   {
     "code": "ST-1429",
-    "name": "TP-PULSAR DTSI BLUE (TP :- Tail Panel)",
+    "name": "TP PULSAR DTSI BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 720,
     "part": "TP"
   },
   {
     "code": "ST-1430",
-    "name": "TP-PULSAR DTSI PURPLE (TP :- Tail Panel)",
+    "name": "TP PULSAR DTSI PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 720,
     "part": "TP"
   },
   {
     "code": "ST-1431",
-    "name": "TP-PULSAR UG3 (JOINT) BLACK (TP :- Tail Panel)",
+    "name": "TP PULSAR UG3 JOINT BLACK TP Tail Panel",
     "qty": 2,
     "mrp": 950,
     "part": "TP"
   },
   {
     "code": "ST-1432",
-    "name": "TP-PULSAR UG3 (JOINT) RED (TP :- Tail Panel)",
+    "name": "TP PULSAR UG3 JOINT RED TP Tail Panel",
     "qty": 2,
     "mrp": 950,
     "part": "TP"
   },
   {
     "code": "ST-1451",
-    "name": "TP-DISCOVER 125CC O/M (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC O M BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1452",
-    "name": "TP-DISCOVER 125CC O/M (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC O M BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1453",
-    "name": "TP-DISCOVER 125CC O/M (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC O M BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1454",
-    "name": "TP-DISCOVER 125CC O/M (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC O M BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1455",
-    "name": "TP-DISCOVER 125CC O/M RED (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC O M RED TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1456",
-    "name": "TP-DISCOVER 125CC O/M BLUE (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC O M BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1457",
-    "name": "TP-DISCOVER 135CC O/M (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 135CC O M BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1458",
-    "name": "TP-DISCOVER 135CC O/M (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 135CC O M BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1459",
-    "name": "TP-DISCOVER 135CC O/M RED (TP :- Tail Panel)",
+    "name": "TP DISCOVER 135CC O M RED TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1460",
-    "name": "TP-DISCOVER 135CC O/M BLUE (TP :- Tail Panel)",
+    "name": "TP DISCOVER 135CC O M BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1461",
-    "name": "TP-DISCOVER 100CC (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1462",
-    "name": "TP-DISCOVER 100CC (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1463",
-    "name": "TP-DISCOVER 100CC (BK-GREEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC BK GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1464",
-    "name": "TP-DISCOVER 100CC RED (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC RED TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1465",
-    "name": "TP-DISCOVER 100CC BLUE (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 675,
     "part": "TP"
   },
   {
     "code": "ST-1465-D",
-    "name": "TP-DISCOVER 100CC (JOINT-OE) (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC JOINT OE BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 790,
     "part": "TP"
   },
   {
     "code": "ST-1465-D-1",
-    "name": "TP-DISCOVER 100CC (JOINT-OE) (BK-GREEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC JOINT OE BK GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 790,
     "part": "TP"
   },
   {
     "code": "ST-1466",
-    "name": "TP-DISCOVER 100CC 3D (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC 3D BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1467",
-    "name": "TP-DISCOVER 100CC 3D (BK-GREEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC 3D BK GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1467-A",
-    "name": "TP-DISCOVER 100CC 3D (JOIN T-OE) (BK-GREEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC 3D JOIN T OE BK GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1466-A",
-    "name": "TP-DISCOVER 100CC 3D (JOIN T-OE) (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100CC 3D JOIN T OE BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1468",
-    "name": "TP-DISCOVER 125CC 3D (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1469",
-    "name": "TP-DISCOVER 125CC 3D (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1470",
-    "name": "TP-DISCOVER 125CC 3D (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1471",
-    "name": "TP-DISCOVER 125CC 3D (BK-GOLDEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D BK GOLDEN TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1471-A",
-    "name": "TP-DISCOVER 125CC 3D RED (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D RED TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1471-E",
-    "name": "TP-DISCOVER 125CC 3D (JOINT-OE) (BK-GOLDEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D JOINT OE BK GOLDEN TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1471-F",
-    "name": "TP-DISCOVER 125CC 3D (JOINT-OE) (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D JOINT OE BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1471-G",
-    "name": "TP-DISCOVER 125CC 3D (JOINT-OE) (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D JOINT OE BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1471-H",
-    "name": "TP-DISCOVER 125CC 3D (JOINT-OE) (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC 3D JOINT OE BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1472",
-    "name": "TP-DISCOVER 150CC 3D (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1473",
-    "name": "TP-DISCOVER 150CC 3D (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1474",
-    "name": "TP-DISCOVER 150CC 3D (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1475",
-    "name": "TP-DISCOVER 150CC 3D (BK-GOLDEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D BK GOLDEN TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1475-A",
-    "name": "TP-DISCOVER 150CC 3D (JOINT-OE) (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D JOINT OE BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 710,
     "part": "TP"
   },
   {
     "code": "ST-1475-B",
-    "name": "TP-DISCOVER 150CC 3D (JOINT-OE) (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D JOINT OE BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1475-C",
-    "name": "TP-DISCOVER 150CC 3D (JOINT-OE) (BK-PURPLE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D JOINT OE BK PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1475-D",
-    "name": "TP-DISCOVER 150CC 3D (JOINT-OE) (BK-GOLDEN) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 150CC 3D JOINT OE BK GOLDEN TP Tail Panel",
     "qty": 2,
     "mrp": 820,
     "part": "TP"
   },
   {
     "code": "ST-1476",
-    "name": "TP-DISCOVER 125CC ST (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC ST BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1477",
-    "name": "TP-DISCOVER 125CC ST (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC ST BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1478",
-    "name": "TP-DISCOVER 125CC ST RED (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC ST RED TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1479",
-    "name": "TP-DISCOVER 125CC ST BLUE (TP :- Tail Panel)",
+    "name": "TP DISCOVER 125CC ST BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1479-A",
-    "name": "TP-DISCOVER 100 M (BK-RED) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100 M BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1479-B",
-    "name": "TP-DISCOVER 100 M (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100 M BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1479-C",
-    "name": "TP-DISCOVER 100 M RED (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100 M RED TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1479-D",
-    "name": "TP-DISCOVER 100 M BLUE (TP :- Tail Panel)",
+    "name": "TP DISCOVER 100 M BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 1120,
     "part": "TP"
   },
   {
     "code": "ST-1483",
-    "name": "TP-CT-100 (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP CT 100 BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 640,
     "part": "TP"
   },
   {
     "code": "ST-1484",
-    "name": "TP-CT-100 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CT 100 BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 640,
     "part": "TP"
   },
   {
     "code": "ST-1485",
-    "name": "TP-CT-100 (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP CT 100 BK GREY TP Tail Panel",
     "qty": 3,
     "mrp": 640,
     "part": "TP"
   },
   {
     "code": "ST-1487",
-    "name": "TP-CT-100 RED (TP :- Tail Panel)",
+    "name": "TP CT 100 RED TP Tail Panel",
     "qty": 3,
     "mrp": 640,
     "part": "TP"
   },
   {
     "code": "ST-1488",
-    "name": "TP-CT-100 BLUE (TP :- Tail Panel)",
+    "name": "TP CT 100 BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 640,
     "part": "TP"
   },
   {
     "code": "ST-1489",
-    "name": "TP-CT-100 HEENA GREEN (TP :- Tail Panel)",
+    "name": "TP CT 100 HEENA GREEN TP Tail Panel",
     "qty": 3,
     "mrp": 640,
     "part": "TP"
   },
   {
     "code": "ST-1490",
-    "name": "TP-CT-100 PURPLE (TP :- Tail Panel)",
+    "name": "TP CT 100 PURPLE TP Tail Panel",
     "qty": 3,
     "mrp": 650,
     "part": "TP"
   },
   {
     "code": "ST-1490-A",
-    "name": "TP-CT-100 N/M 2015 (BK-RED) (TP :- Tail Panel)",
+    "name": "TP CT 100 N M 2015 BK RED TP Tail Panel",
     "qty": 3,
     "mrp": 650,
     "part": "TP"
   },
   {
     "code": "ST-1490-B",
-    "name": "TP-CT-100 N/M 2015 (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP CT 100 N M 2015 BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 650,
     "part": "TP"
   },
   {
     "code": "ST-1490-C",
-    "name": "TP-CT-100 N/M 2015 RED (TP :- Tail Panel)",
+    "name": "TP CT 100 N M 2015 RED TP Tail Panel",
     "qty": 3,
     "mrp": 650,
     "part": "TP"
   },
   {
     "code": "ST-1490-D",
-    "name": "TP-CT-100 N/M 2015 BLUE (TP :- Tail Panel)",
+    "name": "TP CT 100 N M 2015 BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 650,
     "part": "TP"
   },
   {
     "code": "ST-1491",
-    "name": "TP-PLATINA O/M (BK-SILVER) (TP :- Tail Panel)",
+    "name": "TP PLATINA O M BK SILVER TP Tail Panel",
     "qty": 3,
     "mrp": 740,
     "part": "TP"
   },
   {
     "code": "ST-1492",
-    "name": "TP-PLATINA O/M (BK-MAROON) (TP :- Tail Panel)",
+    "name": "TP PLATINA O M BK MAROON TP Tail Panel",
     "qty": 3,
     "mrp": 740,
     "part": "TP"
   },
   {
     "code": "ST-1493",
-    "name": "TP-PLATINA O/M (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP PLATINA O M BK BLUE TP Tail Panel",
     "qty": 3,
     "mrp": 740,
     "part": "TP"
   },
   {
     "code": "ST-1494",
-    "name": "TP-PLATINA O/M TAIL BLACK FOR RED BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA O M TAIL BLACK FOR RED BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 740,
     "part": "TP"
   },
   {
     "code": "ST-1495",
-    "name": "TP-PLATINA O/M TAIL BLACK FOR SILVER BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA O M TAIL BLACK FOR SILVER BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 740,
     "part": "TP"
   },
   {
     "code": "ST-1496",
-    "name": "TP-PLATINA O/M TAIL BLACK FOR GREY BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA O M TAIL BLACK FOR GREY BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 740,
     "part": "TP"
   },
   {
     "code": "ST-1497",
-    "name": "TP-PLATINA O/M TAIL BLACK FOR BLUE BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA O M TAIL BLACK FOR BLUE BIKE TP Tail Panel",
     "qty": 3,
     "mrp": 740,
     "part": "TP"
   },
   {
     "code": "ST-1497-A",
-    "name": "TP-PLATINA N/M (BK-RED) (TP :- Tail Panel)",
+    "name": "TP PLATINA N M BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 750,
     "part": "TP"
   },
   {
     "code": "ST-1497-B",
-    "name": "TP-PLATINA N/M TAIL BLACK FOR RED BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA N M TAIL BLACK FOR RED BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 750,
     "part": "TP"
   },
   {
     "code": "ST-1497-C",
-    "name": "TP-PLATINA N/M (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP PLATINA N M BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 750,
     "part": "TP"
   },
   {
     "code": "ST-1497-D",
-    "name": "TP-PLATINA (JOINT-OE) (BK-GREY) (TP :- Tail Panel)",
+    "name": "TP PLATINA JOINT OE BK GREY TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1497-E",
-    "name": "TP-PLATINA (JOINT-OE) (BK-MAHROON) (TP :- Tail Panel)",
+    "name": "TP PLATINA JOINT OE BK MAHROON TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1497-F",
-    "name": "TP-PLATINA (JOINT-OE) BLACK FOR RED BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA JOINT OE BLACK FOR RED BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1497-I",
-    "name": "TP-PLATINA (JOINT-OE) BLACK FOR GREY BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA JOINT OE BLACK FOR GREY BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1497-J",
-    "name": "TP-PLATINA (JOINT-OE) (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP PLATINA JOINT OE BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1497-K",
-    "name": "TP-PLATINA (JOINT-OE) TAIL BLACK FOR SILVER BIKE (TP :- Tail Panel)",
+    "name": "TP PLATINA JOINT OE TAIL BLACK FOR SILVER BIKE TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1497-L",
-    "name": "TP-PLATINA (JOINT-OE) TAIL BLACK FOR BLUE (TP :- Tail Panel)",
+    "name": "TP PLATINA JOINT OE TAIL BLACK FOR BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1499",
-    "name": "TP-PLATINA 125CC (BK-RED) (TP :- Tail Panel)",
+    "name": "TP PLATINA 125CC BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 750,
     "part": "TP"
   },
   {
     "code": "ST-1500",
-    "name": "TP-PLATINA 125CC (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP PLATINA 125CC BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 750,
     "part": "TP"
   },
   {
     "code": "ST-1501",
-    "name": "TP-PLATINA 125CC RED (TP :- Tail Panel)",
+    "name": "TP PLATINA 125CC RED TP Tail Panel",
     "qty": 2,
     "mrp": 750,
     "part": "TP"
   },
   {
     "code": "ST-1502",
-    "name": "TP-PLATINA 125CC (BK-GREEN) (TP :- Tail Panel)",
+    "name": "TP PLATINA 125CC BK GREEN TP Tail Panel",
     "qty": 2,
     "mrp": 750,
     "part": "TP"
   },
   {
     "code": "ST-1497-G",
-    "name": "TP-PLATINA 125CC (JOINT-OE) (BK-RED) (TP :- Tail Panel)",
+    "name": "TP PLATINA 125CC JOINT OE BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1497-H",
-    "name": "TP-PLATINA 125CC (JOINT-OE) (BK-BLUE) (TP :- Tail Panel)",
+    "name": "TP PLATINA 125CC JOINT OE BK BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 890,
     "part": "TP"
   },
   {
     "code": "ST-1503-A",
-    "name": "TP-PLATINA ES 100CC (BK-RED) (TP :- Tail Panel)",
+    "name": "TP PLATINA ES 100CC BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 795,
     "part": "TP"
   },
   {
     "code": "ST-1503-B",
-    "name": "TP-PLATINA ES 100CC RED (TP :- Tail Panel)",
+    "name": "TP PLATINA ES 100CC RED TP Tail Panel",
     "qty": 2,
     "mrp": 795,
     "part": "TP"
   },
   {
     "code": "ST-1503-C",
-    "name": "TP-PLATINA ES 100CC (BK-SILVER) (TP :- Tail Panel)",
+    "name": "TP PLATINA ES 100CC BK SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 795,
     "part": "TP"
   },
   {
     "code": "ST-1503-D",
-    "name": "TP-PLATINA ES 100CC BLUE (TP :- Tail Panel)",
+    "name": "TP PLATINA ES 100CC BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 795,
     "part": "TP"
   },
   {
     "code": "ST-1503-E",
-    "name": "TP-PLATINA LED (BK-RED) (TP :- Tail Panel)",
+    "name": "TP PLATINA LED BK RED TP Tail Panel",
     "qty": 2,
     "mrp": 850,
     "part": "TP"
   },
   {
     "code": "ST-1503-F",
-    "name": "TP-PLATINA LED RED (TP :- Tail Panel)",
+    "name": "TP PLATINA LED RED TP Tail Panel",
     "qty": 2,
     "mrp": 850,
     "part": "TP"
   },
   {
     "code": "ST-1503-G",
-    "name": "TP-PLATINA LED (BK-SILVER) (TP :- Tail Panel)",
+    "name": "TP PLATINA LED BK SILVER TP Tail Panel",
     "qty": 2,
     "mrp": 850,
     "part": "TP"
   },
   {
     "code": "ST-1503-H",
-    "name": "TP-PLATINA LED BLUE (TP :- Tail Panel)",
+    "name": "TP PLATINA LED BLUE TP Tail Panel",
     "qty": 2,
     "mrp": 850,
     "part": "TP"
   },
   {
     "code": "ST-1503-I",
-    "name": "TP-PLATINA LED DARK RED (TP :- Tail Panel)",
+    "name": "TP PLATINA LED DARK RED TP Tail Panel",
     "qty": 2,
     "mrp": 850,
     "part": "TP"
   },
   {
     "code": "ST-1503-J",
-    "name": "TP-PLATINA LED (BK-BROWN) (TP :- Tail Panel)",
+    "name": "TP PLATINA LED BK BROWN TP Tail Panel",
     "qty": 2,
     "mrp": 850,
     "part": "TP"
   },
   {
     "code": "ST-1531",
-    "name": "TP-STAR CITY O/M (BK-ORANGE) (TP :- Tail Panel)",
+    "name": "TP STAR CITY O M BK ORANGE TP Tail Panel",
     "qty": 2,
     "mrp": 760,
     "part": "TP"
   },
   {
     "code": "ST-1532",
-    "name": "TP-STAR CITY O/M RED (TP :- Tail Panel)",
+    "name": "TP STAR CITY O M RED TP Tail Panel",
     "qty": 2,
     "mrp": 760,
     "part": "TP"
   },
   {
     "code": "ST-1533",
-    "name": "TP-STAR CITY O/M PURPLE (TP :- Tail Panel)",
+    "name": "TP STAR CITY O M PURPLE TP Tail Panel",
     "qty": 2,
     "mrp": 760,
     "part": "TP"
   },
   {
     "code": "ST-1533-A",
-    "name": "TP-STAR CITY O/M GREY (TP :- Tail Panel)",
+    "name": "TP STAR CITY O M GREY TP Tail Panel",
     "qty": 2,
     "mrp": 760,
     "part": "TP"
   },
   {
     "code": "FK-0005",
-    "name": "FULL KIT MAESTRO (SET OF 7) MATT BLACK (Full Kit including all fiber parts)",
+    "name": "FULL KIT MAESTRO SET OF 7 MATT BLACK Full Kit including all fiber parts",
     "qty": 1,
     "mrp": 7210,
     "part": "FULL_KIT"
   },
   {
     "code": "FK-1806",
-    "name": "FULL KIT PLEASURE (SET OF 7) S.RED (Full Kit including all fiber parts)",
+    "name": "FULL KIT PLEASURE SET OF 7 S RED Full Kit including all fiber parts",
     "qty": 1,
     "mrp": 6450,
     "part": "FULL_KIT"
   },
   {
     "code": "FK-1827",
-    "name": "FULL KIT PLEASURE N/M (SET OF 6) WHITE (Full Kit including all fiber parts)",
+    "name": "FULL KIT PLEASURE N M SET OF 6 WHITE Full Kit including all fiber parts",
     "qty": 1,
     "mrp": 6250,
     "part": "FULL_KIT"
   },
   {
     "code": "FK-1813",
-    "name": "FULL KIT KARIZMA-R (SET OF 4) S.RED (Full Kit including all fiber parts)",
+    "name": "FULL KIT KARIZMA R SET OF 4 S RED Full Kit including all fiber parts",
     "qty": 1,
     "mrp": 5030,
     "part": "FULL_KIT"
   },
   {
     "code": "FK-0001-A",
-    "name": "FULL KIT STUNNER (SET OF 5) YELLOW (Full Kit including all fiber parts)",
+    "name": "FULL KIT STUNNER SET OF 5 YELLOW Full Kit including all fiber parts",
     "qty": 1,
     "mrp": 5630,
     "part": "FULL_KIT"
   },
   {
     "code": "FK-0008",
-    "name": "FULL KIT ACCESS (SET OF 6) SILVER (Full Kit including all fiber parts)",
+    "name": "FULL KIT ACCESS SET OF 6 SILVER Full Kit including all fiber parts",
     "qty": 1,
     "mrp": 7010,
     "part": "FULL_KIT"
