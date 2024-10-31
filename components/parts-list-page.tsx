@@ -26,12 +26,24 @@ export function PartsListPageComponent({
 }) {
   const [searchTerm, setSearchTerm] = useState("");
 
-  const filteredParts = parts.filter(
-    (part) =>
-      part.part === category &&
-      (part.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        part.code.toLowerCase().includes(searchTerm.toLowerCase()))
-  );
+  // Split the search term into individual words, remove extra spaces, and convert to lowercase
+  const terms = searchTerm
+    .trim()
+    .toLowerCase()
+    .split(/\s+/)
+    .filter((term) => term.length > 0); // Remove empty strings
+
+  const filteredParts = parts.filter((part) => {
+    // Ensure the part matches the selected category
+    if (part.part !== category) return false;
+
+    // Check if all search terms are present in either the name or code
+    return terms.every((term) => {
+      const nameIncludes = part.name.toLowerCase().includes(term);
+      const codeIncludes = part.code.toLowerCase().includes(term);
+      return nameIncludes || codeIncludes;
+    });
+  });
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
