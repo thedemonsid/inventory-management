@@ -1,8 +1,9 @@
-import { FiberPageComponent } from "@/components/fiber-page";
+import { BikeModelPartsPageComponent } from "@/components/bike-model-parts-page";
 import React from "react";
 
-const Fiber = () => {
-  return <FiberPageComponent></FiberPageComponent>;
+const Parts = async ({ params }: any) => {
+  const { bikeName } = await params;
+  return <BikeModelPartsPageComponent bikeName={bikeName} />;
 };
 
-export default Fiber;
+export default Parts;

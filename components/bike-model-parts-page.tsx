@@ -1,5 +1,3 @@
-"use client";
-
 import Link from "next/link";
 import {
   ArrowLeft,
@@ -13,12 +11,12 @@ import {
 import { Button } from "@/components/ui/button";
 
 const partsCategories = [
-  { name: "Mudguard", icon: Shield },
-  { name: "Head Light Visor", icon: Sun },
-  { name: "Side Panel", icon: PanelLeft },
-  { name: "Tail Panel", icon: PanelRight },
-  { name: "Full Kit", icon: Package },
-  { name: "Helmet", icon: HardHat },
+  { name: "Mudguard", icon: Shield, href: "/fibers/MG" },
+  { name: "Head Light Visor", icon: Sun, href: "/fibers/HLV" },
+  { name: "Side Panel", icon: PanelLeft, href: "/fibers/SP" },
+  { name: "Tail Panel", icon: PanelRight, href: "/fibers/TP" },
+  { name: "Full Kit", icon: Package, href: "/fibers/FULL_KIT" },
+  { name: "Helmet", icon: HardHat, href: "/fibers/HELMET" },
 ];
 
 export function BikeModelPartsPageComponent({ bikeName = "Splendor" }) {
@@ -37,14 +35,18 @@ export function BikeModelPartsPageComponent({ bikeName = "Splendor" }) {
       <main className="flex-grow flex flex-col p-4">
         <div className="grid grid-cols-2 gap-4 flex-grow">
           {partsCategories.map((category, index) => (
-            <Button
-              key={index}
-              variant="outline"
-              className="flex flex-col items-center justify-center p-4 h-full text-center hover:bg-gray-200 transition-colors"
-            >
-              <category.icon className="size-24 mb-4" size={128} />
-              <span className="text-lg font-medium">{category.name}</span>
-            </Button>
+            <Link href={category.href} key={index} className="flex flex-col items-center justify-center p-4 h-full text-center hover:bg-gray-200 transition-colors">
+              <Button
+                variant="outline"
+                className="flex flex-col items-center justify-center p-4 h-full text-center hover:bg-gray-200 transition-colors"
+              >
+                <category.icon
+                  className="size-24 mb-4 text-center"
+                  size={128}
+                />
+                <span className="text-lg font-medium">{category.name}</span>
+              </Button>
+            </Link>
           ))}
         </div>
       </main>
