@@ -7,7 +7,7 @@ import { Input } from "@/components/ui/input";
 import { ScrollArea } from "@/components/ui/scroll-area";
 
 interface Part {
-  id: String;
+  id: string;
   code: string;
   name: string;
   part: string;
