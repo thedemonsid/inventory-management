@@ -1,22 +1,37 @@
-'use client'
+"use client";
 
-import { useState } from "react"
-import Link from "next/link"
-import { ArrowLeft, Search } from "lucide-react"
-import { Input } from "@/components/ui/input"
-import { ScrollArea } from "@/components/ui/scroll-area"
-import {parts} from "@/constants/fibers"
+import { useState } from "react";
+import Link from "next/link";
+import { ArrowLeft, Search } from "lucide-react";
+import { Input } from "@/components/ui/input";
+import { ScrollArea } from "@/components/ui/scroll-area";
 
-
-export function PartsListPageComponent({ category = "TP" }) {
-  const [searchTerm, setSearchTerm] = useState("")
+interface Part {
+  id: String;
+  code: string;
+  name: string;
+  part: string;
+  qty: number;
+  mrp: number;
+  image: string | null;
+  createdAt: Date;
+  updatedAt: Date;
+}
+export function PartsListPageComponent({
+  category = "TP",
+  parts,
+}: {
+  category: string;
+  parts: Part[];
+}) {
+  const [searchTerm, setSearchTerm] = useState("");
 
   const filteredParts = parts.filter(
     (part) =>
       part.part === category &&
       (part.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
         part.code.toLowerCase().includes(searchTerm.toLowerCase()))
-  )
+  );
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
@@ -50,7 +65,10 @@ export function PartsListPageComponent({ category = "TP" }) {
         <ScrollArea className="flex-grow">
           <div className="space-y-4">
             {filteredParts.map((part) => (
-              <div key={part.code} className="bg-white p-4 rounded-lg shadow flex items-center justify-between">
+              <div
+                key={part.code}
+                className="bg-white p-4 rounded-lg shadow flex items-center justify-between"
+              >
                 <div>
                   <h3 className="font-semibold">{part.name}</h3>
                   <p className="text-sm text-gray-500">Code: {part.code}</p>
@@ -67,9 +85,11 @@ export function PartsListPageComponent({ category = "TP" }) {
 
       <footer className="bg-white shadow-sm mt-auto">
         <div className="max-w-7xl mx-auto py-4 px-4">
-          <p className="text-center text-gray-500 text-sm">© 2023 Inventory Management. All rights reserved.</p>
+          <p className="text-center text-gray-500 text-sm">
+            © 2023 Inventory Management. All rights reserved.
+          </p>
         </div>
       </footer>
     </div>
-  )
+  );
 }
