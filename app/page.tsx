@@ -1,5 +1,7 @@
+import { fetchParts } from "@/actions/fecthParts";
 import { PartsListPageComponent } from "@/components/parts-list-page";
 
-export default function Home() {
-  return <PartsListPageComponent></PartsListPageComponent>;
+export default async function Home() {
+  const parts = await fetchParts();
+  return <PartsListPageComponent parts = {parts.parts}></PartsListPageComponent>;
 }

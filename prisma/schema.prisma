@@ -13,23 +13,61 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Fiber {
-  id        String   @id @default(cuid())
-  code      String   @unique
-  name      String
-  mrp       Int
-  qty       Int
-  image     String?
-  part      Part
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+model Buyer {
+  id        String     @id @default(cuid())
+  name      String     @db.VarChar(100)
+  phone     String?    @db.VarChar(20)
+  email     String?    @unique
+  address   String?    @db.VarChar(200)
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  purchases Purchase[] // Relation to purchases
+
+  @@index([name])
+  @@index([id])
+  @@map("buyers")
 }
 
-enum Part {
-  MG
-  HLV
-  SP
-  TP
-  FULL_KIT
-  HELMET
+model Part {
+  id            String     @id @default(cuid())
+  code          String?    @unique
+  name          String     @db.VarChar(100)
+  quantity      Int        @default(0)
+  purchasePrice Decimal    @db.Decimal(8, 2)
+  mrp           Decimal    @db.Decimal(8, 2)
+  sellingPrice  Decimal    @db.Decimal(8, 2)
+  category      Category
+  rackNumber    String     @db.VarChar(50)
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+  vectorEmbed   Float[]
+  purchases     Purchase[] // Relation to purchases
+
+  @@index([code])
+  @@index([category])
+  @@index([rackNumber])
+  @@map("parts")
+}
+
+model Purchase {
+  id          String   @id @default(cuid())
+  buyer       Buyer    @relation(fields: [buyerId], references: [id])
+  buyerId     String
+  part        Part     @relation(fields: [partId], references: [id])
+  partId      String
+  quantity    Int
+  unitPrice   Decimal  @db.Decimal(8, 2)
+  totalAmount Decimal  @db.Decimal(10, 2)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([buyerId])
+  @@index([partId])
+  @@map("purchases")
+}
+
+enum Category {
+  ACCESSORIES
+  SPARE_PARTS
+  FIBER
 }
